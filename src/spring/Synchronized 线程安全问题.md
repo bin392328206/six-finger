@@ -12,7 +12,7 @@
 
 
 ## 分析事故原因  
-> 因为是报错 原因到是很快找到了 数据库出现了脏写如图:
+> 因为是报错(因为我做这条数据查询的时候是selectOne 所以会报出现了sql异常) 原因到是很快找到了 数据库出现了脏写如图:
 ![](https://user-gold-cdn.xitu.io/2019/11/26/16ea77263c8ccb32?w=1469&h=59&f=png&s=11172)
 
 > 我负责的是直播模块 其中的一个业务是直播结束后第三方会通知我去拉取直播的回放，              
@@ -73,12 +73,90 @@
 
 > 果然后面测了几次 再也没出现上面的情况了 
 
+> **Tips** 特别感谢**一位不愿透露姓名**的大佬的指出说我没有把标题的内容说清楚和后面的解决问题的收场的时候有点草率        
+
+> 在这里 我再好好的说一下我标题是 在Spring事务管理下，Synchronized为啥还线程不安全？
+> 其实有是自己并没有用Synchronized 锁住 Spring 的事务                                                              
+> 因为我的列子上的@Transaction注解是再类上面（也就是再方法上面）Spring的声明事事务他是利用了aop的思想    
+> 我虽然锁住了第一个线程 但是等到第一个线程的事务 还没提交的时候，第二个线程就去查询了 所以就会导致线程不安全问题
+
 
 ## 解决问题
 > 方案1 很简单 那就是不开事务就行了，再这个方法上不加事务就行 因为 Synchronized  可以保证线程安全。
+这个方案的意思就是说不要再同一个方法上用@Transaction 和 Synchronized 例子图就没有贴了 就像我前面的 把注解去掉就好了 （但是前提你这个方案确定是不需要事务）
+ 
 > 方案2 再这个里面再调用一层service 让那个方法提交事务，这样的话加上Synchronized 也能保证线程安全。
-> 方案3 用redis 分布式锁 也是可以的 就算是多个副本也是能保证线程安全。
+方案2我贴下代码吧
+
+```
+    @Override
+    public synchronized void saveCourseChapterLiveRecord(CourseChapterLiveRecord courseChapterLiveRecord) {
+        saveRecord(courseChapterLiveRecord);
+    }
+
+    @Transactional
+    public void saveRecord(CourseChapterLiveRecord courseChapterLiveRecord) {
+        //先查数据看是否已经存了
+        if (findOrder(courseChapterLiveRecord)){ return;}
+        int row = this.insertSelective(courseChapterLiveRecord);
+        if (row<1){
+    log.info("把录播的信息插入数据库失败 参数是->{}", JSON.toJSONString(courseChapterLiveRecord));
+    throw new RRException("把录播的信息插入数据库失败");
+        } 
+    }
+```
+> 其实也就是说把事务包裹在Synchronized 里面  
+
+> **先自我批评一下**          
+>在技术的道路上真的不要自己觉得是什么就是什么 上面的代码是错误的 其实我并没有测试过 就贴到文章上了 这是一个大忌 为什么很多技术文章有问题 因为很多就像我上面的一样 所以敦促自己以后做事情还是要扎扎实实
+
+>感谢 **紫雨飞星** 读者提出我的错误 
+>具体错误的原因是因为调用savRecord方法的时候使用的是this对象，其实是没有被AOP处理的，也就是这个Transactional不会生效~~~
+
+>修改后的代码  自己注入自己  
+
+```
+    @Override
+    public synchronized void saveCourseChapterLiveRecord(CourseChapterLiveRecord courseChapterLiveRecord) {
+        courseChapterLiveRecordServiceImpl.saveRecord(courseChapterLiveRecord);
+    }
+
+    @Transactional
+    public void saveRecord(CourseChapterLiveRecord courseChapterLiveRecord) {
+        //先查数据看是否已经存了
+        if (findOrder(courseChapterLiveRecord)){ return;}
+        int row = this.insertSelective(courseChapterLiveRecord);
+        if (row<1){
+    log.info("把录播的信息插入数据库失败 参数是->{}", JSON.toJSONString(courseChapterLiveRecord));
+    throw new RRException("把录播的信息插入数据库失败");
+        } 
+    }
+
+```
+> 利用中午的时间测了几次 确实是不会出现线程安全问题了
+
+> 方案3 用redis 分布式锁 也是可以的 就算是多个副本也是能保证线程安全。这个后面的文章会有写到
 
 
 ## 结论
 > 在多线程环境下，就可能会出现：方法执行完了(synchronized代码块执行完了)，事务还没提交，别的线程可以进入被synchronized修饰的方法，再读取的时候，读到的是还没提交事务的数据，这个数据不是最新的，所以就出现了这个问题。
+
+> 参考了一位读者的结论
+
+> Synchronized 失效关键原因：是因为**Synchronized**锁定的是当前调用方法对象,而Spring AOP 处理事务会进行生成一个代理对象，并在代理对象执行方法前的事务开启，方法执行完的事务提交，所以说，事务的开启和提交并不是在 Synchronized 锁定的范围内。出现同步锁失效的原因是:当A(线程) 执行完insertSelective()方法，会进行释放同步锁，去做提交事务，但在A(线程)还没有提交完事务之前，B(线程)进行执行findOrder() 方法，执行完毕之后和A(线程)一起提交事务, 这时候就会出现线程安全问题。
+
+
+
+## 日常求赞
+> 好了各位，以上就是这篇文章的全部内容了，能看到这里的人呀，都是**人才**。
+
+> 创作不易，各位的支持和认可，就是我创作的最大动力，我们下篇文章见
+
+>六脉神剑 | 文 【原创】如果本篇博客有任何错误，请批评指教，不胜感激 ！
+
+### 参考链接
+- [Synchronized 同步出现失效](https://blog.csdn.net/prin_at/article/details/90671332)
+- [@Transactional注解不起作用解决办法及原理分析](https://blog.csdn.net/qq_20597727/article/details/84900994)
+
+### 特别鸣谢
+> 感谢各位大佬对文章的点评 我会继续努力采坑的 来自一个小白的真实内心独白

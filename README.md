@@ -6,3 +6,7 @@
 
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
+
+
+## Redis
+- [https://juejin.im/post/5dde62bf5188256ebc1ee256](https://juejin.im/post/5dde62bf5188256ebc1ee256)
