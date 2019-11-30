@@ -9,4 +9,4 @@
 
 
 ## Redis
-- [https://juejin.im/post/5dde62bf5188256ebc1ee256](https://juejin.im/post/5dde62bf5188256ebc1ee256)
+- [从零开始学Redis之金刚凡境](https://juejin.im/post/5dde62bf5188256ebc1ee256)
