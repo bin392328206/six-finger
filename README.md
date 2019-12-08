@@ -4,6 +4,7 @@
 ##  分布式
 - [分布式事务](https://juejin.im/post/5dd91428f265da7dcc7e5930)
 - [史上最全的分布式数据同步中间间canal 之入门篇](https://juejin.im/post/5de6187b51882512727f0454)
+- [史上最全的分布式数据同步中间间canal 之结束篇](https://juejin.im/post/5de7126d6fb9a016526e9961)
 
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
@@ -15,3 +16,7 @@
 - [从零开始学Redis之逍遥天境](https://juejin.im/post/5de391046fb9a0717220fafe)
 - [从零开始学Redis之半步神游](https://juejin.im/post/5de49cbbf265da05d03826d5)
 - [从零开始学Redis之神游玄境](https://juejin.im/post/5de4d504518825051411c83b)
+
+
+## Java基础
+- [史上最全的Java基础（针对面试）](https://juejin.im/post/5de77e7cf265da33f63f39f4)
