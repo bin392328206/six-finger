@@ -30,3 +30,4 @@
 
 ## Java容器
 [史上最全的Java容器集合之入门](https://juejin.im/post/5de87a92e51d4557ec02f39d)
+[史上最全的Java容器集合之基础数据结构（手撕链表）](https://juejin.im/post/5de8cdb5f265da33c34e2719)
