@@ -8,14 +8,19 @@
 
 #  学习目录(善用ctrl+F)
 
-##  分布式
-- [分布式事务](https://juejin.im/post/5dd91428f265da7dcc7e5930)
-- [史上最全的分布式数据同步中间间canal 之入门篇](https://juejin.im/post/5de6187b51882512727f0454)
-- [史上最全的分布式数据同步中间间canal 之结束篇](https://juejin.im/post/5de7126d6fb9a016526e9961)
+
+## Java基础
+- [史上最全的Java基础（针对面试）](https://juejin.im/post/5de77e7cf265da33f63f39f4)
+
+## Java容器
+- [史上最全的Java容器集合之入门](https://juejin.im/post/5de87a92e51d4557ec02f39d)
+- [史上最全的Java容器集合之基础数据结构（手撕链表）](https://juejin.im/post/5de8cdb5f265da33c34e2719)
+- [史上最全的Java容器集合之ArrayList(源码解读)](https://juejin.im/post/5de9f222f265da33b12e9600)
+
+
 
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
-
 
 ## Redis
 - [从零开始学Redis之金刚凡境](https://juejin.im/post/5dde62bf5188256ebc1ee256)
@@ -25,9 +30,12 @@
 - [从零开始学Redis之神游玄境](https://juejin.im/post/5de4d504518825051411c83b)
 
 
-## Java基础
-- [史上最全的Java基础（针对面试）](https://juejin.im/post/5de77e7cf265da33f63f39f4)
+##  分布式
+- [分布式事务](https://juejin.im/post/5dd91428f265da7dcc7e5930)
+- [史上最全的分布式数据同步中间间canal 之入门篇](https://juejin.im/post/5de6187b51882512727f0454)
+- [史上最全的分布式数据同步中间间canal 之结束篇](https://juejin.im/post/5de7126d6fb9a016526e9961)
 
-## Java容器
-[史上最全的Java容器集合之入门](https://juejin.im/post/5de87a92e51d4557ec02f39d)
-[史上最全的Java容器集合之基础数据结构（手撕链表）](https://juejin.im/post/5de8cdb5f265da33c34e2719)
+
+
+
+
