@@ -19,7 +19,7 @@
 - [史上最全的Java容器集合之ArrayList(源码解读)](https://juejin.im/post/5de9f222f265da33b12e9600)
 - [史上最全的Java容器集合之Vector和LinkedList(源码解读)](https://juejin.im/post/5deb0b26e51d4557e87fc398)
 - [史上最全的Java容器集合之equals 和 hashCode ](https://juejin.im/post/5decc9fa518825124a05afd8)
-
+- [史上最全的Java容器集合之HashMap（源码解读）](https://juejin.im/post/5dedb448f265da33b071716a)
 
 
 ## Spring
