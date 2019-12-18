@@ -41,7 +41,7 @@
 - [史上最全的分布式数据同步中间间canal 之结束篇](https://juejin.im/post/5de7126d6fb9a016526e9961)
 
 
-## 程序人生
+## 代码人生
 - [[朝花夕拾，不忘初心]| 掘金年度征文 ](https://juejin.im/post/5df97b68f265da33f40f25a7)
 
 
