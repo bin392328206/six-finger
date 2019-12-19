@@ -37,8 +37,9 @@
 
 ##  分布式
 - [分布式事务](https://juejin.im/post/5dd91428f265da7dcc7e5930)
-- [史上最全的分布式数据同步中间间canal 之入门篇](https://juejin.im/post/5de6187b51882512727f0454)
-- [史上最全的分布式数据同步中间间canal 之结束篇](https://juejin.im/post/5de7126d6fb9a016526e9961)
+- canal
+    - [史上最全的分布式数据同步中间间canal 之入门篇](https://juejin.im/post/5de6187b51882512727f0454)
+    - [史上最全的分布式数据同步中间间canal 之结束篇](https://juejin.im/post/5de7126d6fb9a016526e9961)
 
 
 ## 代码人生
