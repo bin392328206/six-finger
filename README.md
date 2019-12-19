@@ -22,7 +22,7 @@
 - [史上最全的Java容器集合之HashMap（源码解读）](https://juejin.im/post/5dedb448f265da33b071716a)
 - [史上最全的Java容器集合之ConcurrentHashMap（源码解读）](https://juejin.im/post/5dee17adf265da33942a7798#heading-0)
 - [史上最全的Java容器集合之LinkedHashMap（源码解读）](https://juejin.im/post/5def59a36fb9a0162712765e)
-
+- [史上最全的Java容器集合之HashSet（源码解读）](https://juejin.im/post/5df08f96518825126d5a25dd)
 
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
