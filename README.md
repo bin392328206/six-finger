@@ -14,6 +14,8 @@
 - [史上最全的Java基础（针对面试）](https://juejin.im/post/5de77e7cf265da33f63f39f4)
 - [你不知道的Java内部类](https://juejin.im/post/5df0a84fe51d4557f544f7ac)
 - [你必须知道的Java泛型](https://juejin.im/post/5df1b667f265da3398562739)
+- 1.8新特性
+    - [Java8新特性之Lambda表达式，函数式接口，方法引用和default关键字](https://juejin.im/post/5df36bdf6fb9a01608237621)
 
 ## Java容器
 - [史上最全的Java容器集合之入门](https://juejin.im/post/5de87a92e51d4557ec02f39d)
