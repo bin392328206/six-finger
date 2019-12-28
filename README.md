@@ -18,6 +18,7 @@
     - [Java8新特性之Lambda表达式，函数式接口，方法引用和default关键字](https://juejin.im/post/5df36bdf6fb9a01608237621)
     - [Java8新特性之Optional类](https://juejin.im/post/5df4507f51882512523e7af9)
     - [Java8新特性之Stream流（基础篇）](https://juejin.im/post/5df4a93e51882512454b37fa)
+    - [Java8新特性之Stream流（高级篇）](https://juejin.im/post/5df60af1e51d4557ee3a4041)
 
 ## Java容器
 - [史上最全的Java容器集合之入门](https://juejin.im/post/5de87a92e51d4557ec02f39d)
