@@ -38,6 +38,7 @@
 - [史上最全的Java容器集合之HashSet（源码解读）](https://juejin.im/post/5df08f96518825126d5a25dd)
 
 ## Java并发|锁
+- [史上最全的Java并发系列之并发编程的挑战](https://juejin.im/post/5dfb1ca26fb9a0160b63827f)
 
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
