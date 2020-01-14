@@ -43,6 +43,7 @@
 - [史上最全的Java并发系列之Java内存模型](https://juejin.im/post/5dfc3dadf265da339b5001dd)
 - [史上最全的Java并发系列之Java多线程（一）](https://juejin.im/post/5dfc9106518825126e63a711)
 - [史上最全的Java并发系列之Java多线程（二）](https://juejin.im/post/5dfeeed6e51d45582248e4a5)
+- [史上最全的Java并发系列之Java中的锁的使用和实现介绍（一）](https://juejin.im/post/5e002416e51d45583b43939d)
 
 ## JVM
 
