@@ -45,6 +45,7 @@
 - [史上最全的Java并发系列之Java多线程（二）](https://juejin.im/post/5dfeeed6e51d45582248e4a5)
 - [史上最全的Java并发系列之Java中的锁的使用和实现介绍（一）](https://juejin.im/post/5e002416e51d45583b43939d)
 - [史上最全的Java并发系列之Java中的锁的使用和实现介绍（二）](https://juejin.im/post/5e0037a651882512670ee0b5)
+- [史上最全的Java并发系列之Java并发容器和框架](https://juejin.im/post/5e005f746fb9a016253c15d5)
 
 ## JVM
 
