@@ -36,6 +36,7 @@
 - [史上最全的Java容器集合之ConcurrentHashMap（源码解读）](https://juejin.im/post/5dee17adf265da33942a7798#heading-0)
 - [史上最全的Java容器集合之LinkedHashMap（源码解读）](https://juejin.im/post/5def59a36fb9a0162712765e)  
 - [史上最全的Java容器集合之HashSet（源码解读）](https://juejin.im/post/5df08f96518825126d5a25dd)
+- [史上最全的Java并发系列之Java中的13个原子操作类](https://juejin.im/post/5e006bf6518825126e63a9fb)
 
 ## Java并发|锁
 - [史上最全的Java并发系列之并发编程的挑战](https://juejin.im/post/5dfb1ca26fb9a0160b63827f)
