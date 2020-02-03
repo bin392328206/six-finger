@@ -48,7 +48,7 @@
 - [史上最全的Java并发系列之Java并发容器和框架](https://juejin.im/post/5e005f746fb9a016253c15d5)
 - [史上最全的Java并发系列之Java中的13个原子操作类](https://juejin.im/post/5e006bf6518825126e63a9fb)
 - [史上最全的Java并发系列之Java中的并发工具类](https://juejin.im/post/5e0076a45188251247688749)
-
+- [史上最全的Java并发系列之Java中的线程池](https://juejin.im/post/5e00a849e51d45581269b42a)
 
 ## JVM
 
