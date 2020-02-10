@@ -65,6 +65,7 @@
 ## ElasticSearch
 - [史上最全的ElasticSearch系列之入门](https://juejin.im/post/5e04613ff265da33ee17944b)
 - [史上最全的ElasticSearch系列之基础（一）](https://juejin.im/post/5e06cd12e51d45583e4dd495)
+- [史上最全的ElasticSearch系列之基础（二）](https://juejin.im/post/5e071debf265da33c90b56c7)
 
 ##  分布式
 - [分布式事务](https://juejin.im/post/5dd91428f265da7dcc7e5930)
