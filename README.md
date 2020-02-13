@@ -14,6 +14,7 @@
 - [史上最全的Java基础（针对面试）](https://juejin.im/post/5de77e7cf265da33f63f39f4)
 - [你不知道的Java内部类](https://juejin.im/post/5df0a84fe51d4557f544f7ac)
 - [你必须知道的Java泛型](https://juejin.im/post/5df1b667f265da3398562739)
+- [Java基础之Java枚举](https://juejin.im/post/5e08077e51882512820af8d1)
 - 1.8新特性
     - [Java8新特性之Lambda表达式，函数式接口，方法引用和default关键字](https://juejin.im/post/5df36bdf6fb9a01608237621)
     - [Java8新特性之Optional类](https://juejin.im/post/5df4507f51882512523e7af9)
