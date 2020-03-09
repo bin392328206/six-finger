@@ -87,6 +87,7 @@
 ## 代码人生
 - [[朝花夕拾，不忘初心]| 掘金年度征文 ](https://juejin.im/post/5df97b68f265da33f40f25a7)
 - [佛说：“众生皆苦“，那你觉得你的生活容易嘛？](https://juejin.im/post/5def69a6518825126a6c5ba1)
+- [来瞧瞧阿里一面都面些什么（笔试+机试）](https://juejin.im/post/5e60f6d05188254963276acc)
 
 
 ## 福利
