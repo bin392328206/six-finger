@@ -52,7 +52,7 @@
 - [史上最全的Java并发系列之Java中的线程池](https://juejin.im/post/5e00a849e51d45581269b42a)
 
 ## JVM
-
+- [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
 
