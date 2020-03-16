@@ -62,6 +62,7 @@
 - [从零开始学Redis之逍遥天境](https://juejin.im/post/5de391046fb9a0717220fafe)
 - [从零开始学Redis之半步神游](https://juejin.im/post/5de49cbbf265da05d03826d5)
 - [从零开始学Redis之神游玄境](https://juejin.im/post/5de4d504518825051411c83b)
+- [从零开始学Redis之分布式锁](https://juejin.im/post/5e64ac386fb9a07cb74be2c5)
 
 ## ElasticSearch
 - [史上最全的ElasticSearch系列之入门](https://juejin.im/post/5e04613ff265da33ee17944b)
