@@ -54,6 +54,7 @@
 ## JVM
 - [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
 - [JVM从入门到入土之JVM的类文件结构](https://juejin.im/post/5e1d19b26fb9a02fee1ed155)
+- [JVM从入门到入土之JVM的运行时数据区](https://juejin.im/post/5e1d6e5be51d453c951da505)
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
 
