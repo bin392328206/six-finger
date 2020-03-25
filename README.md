@@ -56,6 +56,7 @@
 - [JVM从入门到入土之JVM的类文件结构](https://juejin.im/post/5e1d19b26fb9a02fee1ed155)
 - [JVM从入门到入土之JVM的运行时数据区](https://juejin.im/post/5e1d6e5be51d453c951da505)
 - [JVM从入门到入土之JVM的内存分配策略和垃圾回收器](https://juejin.im/post/5e1e89115188254dc31985b7)
+- [瓦特 线上出现堆外内存溢出](https://juejin.im/post/5e7979265188255e08062b78)
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
 
