@@ -1,93 +1,208 @@
->文本已收录至我的GitHub仓库，欢迎Star：https://github.com/bin392328206/six-finger                             <br><strong style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; font-weight: bold; color: rgb(233, 105, 0);">种一棵树最好的时间是十年前，其次是现在</strong>   <br>我知道很多人不玩<strong style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; font-weight: bold; color: rgb(233, 105, 0);">qq</strong>了,但是怀旧一下,欢迎加入六脉神剑Java菜鸟学习群，群聊号码：<strong style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; font-weight: bold; color: rgb(233, 105, 0);">549684836</strong> 鼓励大家在技术的路上写博客</p>
-  <h2 id="h" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">絮叨</span></h2>
+3月18日 16:12
+王斌
+高性能MySQL_第3版（中文）.pdf
+72.3 MB
 
+下载
+王斌
+mysql45
+75.9 MB
+打开文件夹
+3月18日 19:45
+王斌
+今晚直播地址：
+https://www.naixuejiaoyu.com/detail/l_5e70ad256c852_e0gioJFO/4?fromH5=true
+3月19日 09:00
+王斌
+
+3月19日 20:08
+王斌
+Java架构师培训课程 分布式/高可用/微服务/spring【鲁班学院】-学习视频教程-培训课程-腾
+课程旨在帮助在职Java开发工程师晋升提高，由来自一线大型互联网公司架构师、技术总监全职授课，内容涵盖： 高并发、高可用、分布式、高性能、架构设计、源码分析。
+
+https://m.ke.qq.com/course/291021?flowToken=1018408&_wv=1&_bid=167
+3月20日 18:21
+王斌
+
+3月20日 20:12
+王斌
+《JavaGuide面试突击版》完结撒花，如果各位觉得不错可以安利给朋友一下，作者在谢过各位了！
+链接:https://pan.baidu.com/s/1qr5H_MoEEEWmqwOZd8ON0Q  密码:2g1v
+
+我创建了一个  Java 方向的知识星球，考虑到关注我的很多都是学生，为了降低加入成本我专门申请了优惠卷 https://t.zsxq.com/Iy7E6qF （即将过期） ，如果你想深入学习 Java ，想进大厂的话，一定不要错过哦！
+3月20日 22:53
+王斌
+14.极客时间-如何设计一个秒杀系统
+77.7 MB
+打开文件夹
+王斌
+09.极客时间-深入拆解 Java 虚拟机
+441.6 MB
+打开文件夹
+王斌
+10.极客时间-Java核心技术36讲
+478.8 MB
+打开文件夹
+3月20日 22:59
+王斌
+82.极客时间-DevOps实战笔记
+723.5 MB
+打开文件夹
+王斌
+69.极客时间-SQL必知必会
+644.7 MB
+打开文件夹
+3月25日 18:13
+王斌
+Parallel Scavenge收集器
+3月26日 09:19
+王斌
+本公众号大部分资源收集于互联网，只做学习和交流使用，版权归原作者所有。请多多支持正版授权资源并合法使用。 若侵犯到您的权益，请联系后台删除，我们将及时处理。
+
+链接：https://pan.baidu.com/s/1RZUDE90MKio002hkK8-dag 提取码：69ts
+3月26日 20:30
+王斌
+http://md.aclickall.com
+王斌
+表情包在线制作模板大全 - 斗图表情包在线制作
+表情包在线制作模板大全
+
+https://www.52doutu.cn/maker/1/?order=timedown
+3月26日 21:14
+王斌
+黑马Java Springboot2.0开发头条项目（资料、代码、讲义）14天完整版
+1.4 GB
+打开文件夹
+3月26日 23:09
+王斌
+一个基于 Spring Boot 的API、RESTful API 项目骨架
+最近使用Spring Boot 配合 MyBatis 、通用Mapper插件、PageHelper分页插件 连做了几个中小型API项目，做下来觉得这套框架、工具搭配起来开发这种项目确实非常舒服，团队的
+
+https://mp.weixin.qq.com/s/im80I2gTJDa5PXG3uZXhZA
+3月27日 13:54
+王斌
+在 Java 项目中打印错误日志的正确姿势，排查问题更方便，非常实用！
+在程序中打错误日志的主要目标是为更好地排查问题和解决问题提供重要线索和指导。但是在实际中打的错误日志内容和格式变化多样，错误提示上可能残缺不全、没有相关背景、不明其义，使得排查解决问题成为非常不方便或
+
+https://mp.weixin.qq.com/s/-fWKS0ULMwXFiCf4ql_GbQ
+3月28日 09:12
+王斌
+3月28日 09:12
+# 前言
+>文本已收录至我的GitHub仓库，欢迎Star：https://github.com/bin392328206/six-finger                             
+> **种一棵树最好的时间是十年前，其次是现在**   
+>我知道很多人不玩**qq**了,但是怀旧一下,欢迎加入六脉神剑Java菜鸟学习群，群聊号码：**549684836** 鼓励大家在技术的路上写博客
+## 絮叨 
 前面的章节
+- [🔥JVM从入门到入土之JVM的类加载机制]()
+- [🔥JVM从入门到入土之JVM的类文件结构]()
+- [🔥JVM从入门到入土之JVM的运行时数据区]()
+- [🔥JVM从入门到入土之JVM的内存分配策略和垃圾回收器]()
 
-- [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
-- [JVM从入门到入土之JVM的类文件结构](https://juejin.im/post/5e1d19b26fb9a02fee1ed155)</span></li>
-- [JVM从入门到入土之JVM的运行时数据区](https://juejin.im/post/5e1d6e5be51d453c951da505)</span></li>
-- [JVM从入门到入土之JVM的内存分配策略和垃圾回收器](https://juejin.im/post/5e1e89115188254dc31985b7)
- 
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">今天呢，给大家讲关于JVM的面试题，但是太多了，我也挑不全，讲讲比较典型的，但是所有题目的答案还是前面四个章节的基础，我觉得最难的是类文件结构，这个真的搞死人。哈哈，废话不多说我们来看题</p>
-<h2 id="hjvm" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">JVM内存分哪几个区，每个区的作用是什么?</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">Java虚拟机主要分为以下一个区:  </p>
-<ul style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; padding-left: 32px; list-style-type: disc;">
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;">方法区：<ol style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; padding-left: 32px; list-style-type: decimal;">
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">有时候也成为永久代，在该区内很少发生垃圾回收，但是并不代表不发生GC，在这里进行的GC主要是对方法区里的常量池和对类    型的卸载</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">方法区主要用来存储已被虚拟机加载的类的信息、常量、静态变量和即时编译器编译后的代码等数据。</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">该区域是被线程共享的。</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">方法区里有一个运行时常量池，用于存放静态编译产生的字面量和符号引用。该常量池具有动态性，也就是说常量并不一定是编    译时确定，运行时生成的常量也会存在这个常量池中。</span></li></ol></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;">虚拟机栈:<ol style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; padding-left: 32px; list-style-type: decimal;">
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">虚拟机栈也就是我们平常所称的栈内存,它为java方法服务，每个方法在执行的时候都会创建一个栈帧，用于存储局部变量表、操    作数栈、动态链接和方法出口等信息。</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">虚拟机栈是线程私有的，它的生命周期与线程相同。</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">局部变量表里存储的是基本数据类型、returnAddress类型（指向一条字节码指令的地址）和对象引用，这个对象引用有可能是指    向对象起始地址的一个指针，也有可能是代表对象的句柄或者与对象相关联的位置。局部变量所需的内存空间在编译器间确定</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">操作数栈的作用主要用来存储运算结果以及运算的操作数，它不同于局部变量表通过索引来访问，而是压栈和出栈的方式</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">每个栈帧都包含一个指向运行时常量池中该栈帧所属方法的引用，持有这个引用是为了支持方法调用过程中的动态连接.动态链接就是将常量池中的符号引用在运行期转化为直接引用。</span></li></ol></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;">本地方法栈<ul style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; padding-left: 32px; list-style-type: disc;">
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">本地方法栈和虚拟机栈类似，只不过本地方法栈为Native方法服务。</span></li></ul></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;">堆<ul style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; padding-left: 32px; list-style-type: disc;">
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">Java堆是所有线程所共享的一块内存，在虚拟机启动时创建，几乎所有的对象实例都在这里创建，因此该区域经常发生垃圾回收操作    。</span></li></ul></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;">程序计数器<ul style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; padding-left: 32px; list-style-type: disc;">
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">内存空间小，字节码解释器工作时通过改变这个计数值可以选取下一条需要执行的字节码指令，分支、循环、跳转、异常处理和线程恢复等功能都需要依赖这个计数器完成。该内存区域是唯一一个java虚拟机规范没有规定任何OOM情况的区域。</span></li></ul></li>
-</ul>
-<h2 id="hgc" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">如和判断一个对象是否存活?(或者GC对象的判定方法)</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">答案再前面的章节</p>
-<h2 id="hjava" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">简述Java垃圾回收机制?</span></h2>
-<blockquote style="line-height: inherit; display: block; padding: 15px 15px 15px 1rem; font-size: 0.9em; margin: 1em 0px; color: rgb(0, 0, 0); border-left: 5px solid rgb(239, 112, 96); background: rgb(239, 235, 233); overflow: auto; overflow-wrap: normal; word-break: normal;">
-  <p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 0px;">在Java中，程序员是不需要显示的去释放一个对象的内存的，而是由虚拟机自行执行。在JVM中，有一个垃圾回收线程，它是低优先级的，在正常情况下是不会执行的，只有在虚拟机空闲或者当前堆内存不足时，才会触发执行，扫面那些没有被任何引用的对象，并将它们添加到要回收的集合中，进行回收。</p>
-</blockquote>
-<h2 id="hjava-1" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">Java中垃圾收集的方法有哪些?</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">问的3种回收算法 在前面的章节</p>
-<h2 id="hjava-2" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">java类加载过程?</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">问的是类加载的7个过程 加载 验证 准备 解析 初始化 运行 死亡 这7个过程，每个过程做了什么 ，也是再我前面的章节</p>
-<h2 id="h-2" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">类加载器双亲委派模型机制？</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">简单来说就是8个字，向上检查，向下加载。具体可以看我前面的章节</p>
-<h2 id="h-3" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">什么是类加载器，类加载器有哪些?</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">实现通过类的权限定名获取该类的二进制字节流的代码块叫做类加载器。</p>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">主要有一下四种类加载器:</p>
-<ol style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; padding-left: 32px; list-style-type: decimal;">
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">启动类加载器(Bootstrap ClassLoader)用来加载java核心类库，无法被java程序直接引用。</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">扩展类加载器(extensions class loader):它用来加载 Java 的扩展库。Java 虚拟机的实现会提供一个扩展库目录。该类加载器在此目录里面查找并加载 Java 类。</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">系统类加载器（system class loader）：它根据 Java 应用的类路径（CLASSPATH）来加载 Java 类。一般来说，Java 应用的类都是由它来完成加载的。可以通过 ClassLoader.getSystemClassLoader()来获取它。</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">用户自定义类加载器，通过继承 java.lang.ClassLoader类的方式实现。</span></li>
-</ol>
-<h2 id="htomcat" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">Tomcat 的类加载模型</span></h2>
-<figure style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;"><img src="https://user-gold-cdn.xitu.io/2020/1/16/16fad0ad84d96543?w=843&amp;h=932&amp;f=png&amp;s=260266" alt="" title="" style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; display: block; margin: 0px auto; max-width: 100%;"><figcaption style="line-height: inherit; margin: 0px; padding: 0px; margin-top: 10px; text-align: center; color: rgb(153, 153, 153); font-size: 0.7em;"></figcaption></figure><br>想想 Tomcat 为啥要打破双亲委派模型<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;"></p>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">首先，我们来问个问题：</p>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">Tomcat 如果使用默认的类加载机制行不行？<br>我们思考一下：Tomcat是个web容器， 那么它要解决什么问题：</p>
-<ol style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; padding-left: 32px; list-style-type: decimal;">
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">一个web容器可能需要部署两个应用程序，不同的应用程序可能会依赖同一个第三方类库的不同版本，不能要求同一个类库在同一个服务器只有一份，因此要保证每个应用程序的类库都是独立的，保证相互隔离。</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">部署在同一个web容器中相同的类库相同的版本可以共享。否则，如果服务器有10个应用程序，那么要有10份相同的类库加载进虚拟机，这是扯淡的。</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">web容器也有自己依赖的类库，不能于应用程序的类库混淆。基于安全考虑，应该让容器的类库和程序的类库隔离开来。</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">web容器要支持jsp的修改，我们知道，jsp 文件最终也是要编译成class文件才能在虚拟机中运行，但程序运行后修改jsp已经是司空见惯的事情，否则要你何用？ 所以，web容器需要支持 jsp 修改后不用重启。</span></li>
-</ol>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">再看看我们的问题：Tomcat 如果使用默认的类加载机制行不行？<br>答案是不行的。为什么？我们看，第一个问题，如果使用默认的类加载器机制，那么是无法加载两个相同类库的不同版本的，默认的累加器是不管你是什么版本的，只在乎你的全限定类名，并且只有一份。第二个问题，默认的类加载器是能够实现的，因为他的职责就是保证唯一性。第三个问题和第一个问题一样。我们再看第四个问题，我们想我们要怎么实现jsp文件的热修改（楼主起的名字），jsp 文件其实也就是class文件，那么如果修改了，但类名还是一样，类加载器会直接取方法区中已经存在的，修改后的jsp是不会重新加载的。那么怎么办呢？我们可以直接卸载掉这jsp文件的类加载器，所以你应该想到了，每个jsp文件对应一个唯一的类加载器，当一个jsp文件修改了，就直接卸载这个jsp类加载器。重新创建类加载器，重新加载jsp文件。</p>
-<h2 id="houtofmemory" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">你有没有遇到过OutOfMemory问题？你是怎么来处理这个问题的？处理 过程中有哪些收获？</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">常见的原因</p>
-<ul style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; padding-left: 32px; list-style-type: disc;">
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">内存加载的数据量太大：一次性从数据库取太多数据；</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">集合类中有对对象的引用，使用后未清空，GC不能进行回收；</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">代码中存在循环产生过多的重复对象；</span></li>
-<li style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; margin-bottom: 0.5em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">启动参数堆内存值小。</span></li>
-</ul>
-<h2 id="hjdk18permspacemetaspace" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">JDK 1.8之后Perm Space有哪些变动? MetaSpace⼤⼩默认是⽆限的么? 还是你们会通过什么⽅式来指定⼤⼩?</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">JDK 1.8后用元空间替代了 Perm Space；字符串常量存放到堆内存中。</p>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">MetaSpace大小默认没有限制，一般根据系统内存的大小。JVM会动态改变此值。</p>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">-XX:MetaspaceSize：分配给类元数据空间（以字节计）的初始大小（Oracle逻辑存储上的初始高水位，the initial high-water-mark）。此值为估计值，MetaspaceSize的值设置的过大会延长垃圾回收时间。垃圾回收过后，引起下一次垃圾回收的类元数据空间的大小可能会变大。<br>-XX:MaxMetaspaceSize：分配给类元数据空间的最大值，超过此值就会触发Full GC，此值默认没有限制，但应取决于系统内存的大小。JVM会动态地改变此值。</p>
-<h2 id="hjstackjstatgc" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">jstack 是⼲什么的? jstat 呢？如果线上程序周期性地出现卡顿，你怀疑可 能是 GC 导致的，你会怎么来排查这个问题？线程⽇志⼀般你会看其中的什么 部分？</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">jstack 用来查询 Java 进程的堆栈信息。</p>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">jvisualvm 监控内存泄露，跟踪垃圾回收、执行时内存、cpu分析、线程分析。</p>
-<h2 id="hstackoverflow" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">StackOverflow异常有没有遇到过？⼀般你猜测会在什么情况下被触发？如何指定⼀个线程的堆栈⼤⼩？⼀般你们写多少？</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">栈内存溢出，一般由栈内存的局部变量过爆了，导致内存溢出。出现在递归方法，参数个数过多，递归过深，递归没有出口</p>
-<h2 id="hjvm-1" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">跟JVM内存相关的几个核心参数图解</span></h2>
-<figure style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;"><img src="https://user-gold-cdn.xitu.io/2020/1/16/16fad2ca79ea1cb7?w=391&amp;h=325&amp;f=png&amp;s=8586" alt="" title="" style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; display: block; margin: 0px auto; max-width: 100%;"><figcaption style="line-height: inherit; margin: 0px; padding: 0px; margin-top: 10px; text-align: center; color: rgb(153, 153, 153); font-size: 0.7em;"></figcaption></figure>
-<h2 id="hjvm-2" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">如何启动系统的时候设置JVM的启动参数</span></h2>
-<figure style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;"><img src="https://user-gold-cdn.xitu.io/2020/1/16/16fad2da823043f8?w=709&amp;h=137&amp;f=png&amp;s=27618" alt="" title="" style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; display: block; margin: 0px auto; max-width: 100%;"><figcaption style="line-height: inherit; margin: 0px; padding: 0px; margin-top: 10px; text-align: center; color: rgb(153, 153, 153); font-size: 0.7em;"></figcaption></figure>
-<h2 id="h-4" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">结尾</span></h2>
-<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.7em 0px;">这篇到时候看到好的就补充进去，先说这么多，然后是实战才是最重要的，你要有实际JVM调优经验，面试才是加分项，至于理论也仅仅是次要的。</p>
-<h2 id="h-5" style="color: inherit; line-height: inherit; padding: 0px; margin: 1.6em 0px; font-weight: bold; font-size: 1.4em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">日常求赞</span></h2>
-<blockquote style="line-height: inherit; display: block; padding: 15px 15px 15px 1rem; font-size: 0.9em; margin: 1em 0px; color: rgb(0, 0, 0); border-left: 5px solid rgb(239, 112, 96); background: rgb(239, 235, 233); overflow: auto; overflow-wrap: normal; word-break: normal;">
-  <p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 0px;">好了各位，以上就是这篇文章的全部内容了，能看到这里的人呀，都是<strong style="font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; font-weight: bold; color: rgb(233, 105, 0);">真粉</strong>。</p>
-  <p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 0px;">创作不易，各位的支持和认可，就是我创作的最大动力，我们下篇文章见</p>
-  <p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 0px;">六脉神剑 | 文 【原创】如果本篇博客有任何错误，请批评指教，不胜感激 ！</p>
-</blockquote></div>
+今天呢，给大家讲关于JVM的面试题，但是太多了，我也挑不全，讲讲比较典型的，但是所有题目的答案还是前面四个章节的基础，我觉得最难的是类文件结构，这个真的搞死人。哈哈，废话不多说我们来看题
+
+## JVM内存分哪几个区，每个区的作用是什么?
+Java虚拟机主要分为以下一个区:  
+- 方法区：
+    1. 有时候也成为永久代，在该区内很少发生垃圾回收，但是并不代表不发生GC，在这里进行的GC主要是对方法区里的常量池和对类    型的卸载
+    2. 方法区主要用来存储已被虚拟机加载的类的信息、常量、静态变量和即时编译器编译后的代码等数据。
+    3. 该区域是被线程共享的。
+    4. 方法区里有一个运行时常量池，用于存放静态编译产生的字面量和符号引用。该常量池具有动态性，也就是说常量并不一定是编    译时确定，运行时生成的常量也会存在这个常量池中。
+- 虚拟机栈:
+    1. 虚拟机栈也就是我们平常所称的栈内存,它为java方法服务，每个方法在执行的时候都会创建一个栈帧，用于存储局部变量表、操    作数栈、动态链接和方法出口等信息。
+    2. 虚拟机栈是线程私有的，它的生命周期与线程相同。
+    3. 局部变量表里存储的是基本数据类型、returnAddress类型（指向一条字节码指令的地址）和对象引用，这个对象引用有可能是指    向对象起始地址的一个指针，也有可能是代表对象的句柄或者与对象相关联的位置。局部变量所需的内存空间在编译器间确定
+    4. 操作数栈的作用主要用来存储运算结果以及运算的操作数，它不同于局部变量表通过索引来访问，而是压栈和出栈的方式
+    5. 每个栈帧都包含一个指向运行时常量池中该栈帧所属方法的引用，持有这个引用是为了支持方法调用过程中的动态连接.动态链接就是将常量池中的符号引用在运行期转化为直接引用。
+- 本地方法栈
+    - 本地方法栈和虚拟机栈类似，只不过本地方法栈为Native方法服务。
+- 堆
+    - Java堆是所有线程所共享的一块内存，在虚拟机启动时创建，几乎所有的对象实例都在这里创建，因此该区域经常发生垃圾回收操作    。
+- 程序计数器
+    - 内存空间小，字节码解释器工作时通过改变这个计数值可以选取下一条需要执行的字节码指令，分支、循环、跳转、异常处理和线程恢复等功能都需要依赖这个计数器完成。该内存区域是唯一一个java虚拟机规范没有规定任何OOM情况的区域。
+
+## 如和判断一个对象是否存活?(或者GC对象的判定方法)
+答案再前面的章节
+## 简述Java垃圾回收机制?
+> 在Java中，程序员是不需要显示的去释放一个对象的内存的，而是由虚拟机自行执行。在JVM中，有一个垃圾回收线程，它是低优先级的，在正常情况下是不会执行的，只有在虚拟机空闲或者当前堆内存不足时，才会触发执行，扫面那些没有被任何引用的对象，并将它们添加到要回收的集合中，进行回收。
+
+## Java中垃圾收集的方法有哪些?
+问的3种回收算法 在前面的章节
+
+## java类加载过程?
+问的是类加载的7个过程 加载 验证 准备 解析 初始化 运行 死亡 这7个过程，每个过程做了什么 ，也是再我前面的章节
+
+## 类加载器双亲委派模型机制？
+简单来说就是8个字，向上检查，向下加载。具体可以看我前面的章节
+## 什么是类加载器，类加载器有哪些?
+
+实现通过类的权限定名获取该类的二进制字节流的代码块叫做类加载器。
+
+主要有一下四种类加载器:
+1. 启动类加载器(Bootstrap ClassLoader)用来加载java核心类库，无法被java程序直接引用。
+2. 扩展类加载器(extensions class loader):它用来加载 Java 的扩展库。Java 虚拟机的实现会提供一个扩展库目录。该类加载器在此目录里面查找并加载 Java 类。
+3. 系统类加载器（system class loader）：它根据 Java 应用的类路径（CLASSPATH）来加载 Java 类。一般来说，Java 应用的类都是由它来完成加载的。可以通过 ClassLoader.getSystemClassLoader()来获取它。
+4. 用户自定义类加载器，通过继承 java.lang.ClassLoader类的方式实现。
+
+## Tomcat 的类加载模型
+
+![](https://user-gold-cdn.xitu.io/2020/1/16/16fad0ad84d96543?w=843&h=932&f=png&s=260266)
+想想 Tomcat 为啥要打破双亲委派模型
+
+
+首先，我们来问个问题：
+
+Tomcat 如果使用默认的类加载机制行不行？
+我们思考一下：Tomcat是个web容器， 那么它要解决什么问题：
+1. 一个web容器可能需要部署两个应用程序，不同的应用程序可能会依赖同一个第三方类库的不同版本，不能要求同一个类库在同一个服务器只有一份，因此要保证每个应用程序的类库都是独立的，保证相互隔离。
+2. 部署在同一个web容器中相同的类库相同的版本可以共享。否则，如果服务器有10个应用程序，那么要有10份相同的类库加载进虚拟机，这是扯淡的。
+3. web容器也有自己依赖的类库，不能于应用程序的类库混淆。基于安全考虑，应该让容器的类库和程序的类库隔离开来。
+4. web容器要支持jsp的修改，我们知道，jsp 文件最终也是要编译成class文件才能在虚拟机中运行，但程序运行后修改jsp已经是司空见惯的事情，否则要你何用？ 所以，web容器需要支持 jsp 修改后不用重启。
+
+再看看我们的问题：Tomcat 如果使用默认的类加载机制行不行？
+答案是不行的。为什么？我们看，第一个问题，如果使用默认的类加载器机制，那么是无法加载两个相同类库的不同版本的，默认的累加器是不管你是什么版本的，只在乎你的全限定类名，并且只有一份。第二个问题，默认的类加载器是能够实现的，因为他的职责就是保证唯一性。第三个问题和第一个问题一样。我们再看第四个问题，我们想我们要怎么实现jsp文件的热修改（楼主起的名字），jsp 文件其实也就是class文件，那么如果修改了，但类名还是一样，类加载器会直接取方法区中已经存在的，修改后的jsp是不会重新加载的。那么怎么办呢？我们可以直接卸载掉这jsp文件的类加载器，所以你应该想到了，每个jsp文件对应一个唯一的类加载器，当一个jsp文件修改了，就直接卸载这个jsp类加载器。重新创建类加载器，重新加载jsp文件。
+
+## 你有没有遇到过OutOfMemory问题？你是怎么来处理这个问题的？处理 过程中有哪些收获？
+常见的原因
+- 内存加载的数据量太大：一次性从数据库取太多数据；
+- 集合类中有对对象的引用，使用后未清空，GC不能进行回收；
+- 代码中存在循环产生过多的重复对象；
+- 启动参数堆内存值小。
+
+## JDK 1.8之后Perm Space有哪些变动? MetaSpace⼤⼩默认是⽆限的么? 还是你们会通过什么⽅式来指定⼤⼩?
+
+
+JDK 1.8后用元空间替代了 Perm Space；字符串常量存放到堆内存中。
+
+MetaSpace大小默认没有限制，一般根据系统内存的大小。JVM会动态改变此值。
+
+-XX:MetaspaceSize：分配给类元数据空间（以字节计）的初始大小（Oracle逻辑存储上的初始高水位，the initial high-water-mark）。此值为估计值，MetaspaceSize的值设置的过大会延长垃圾回收时间。垃圾回收过后，引起下一次垃圾回收的类元数据空间的大小可能会变大。
+-XX:MaxMetaspaceSize：分配给类元数据空间的最大值，超过此值就会触发Full GC，此值默认没有限制，但应取决于系统内存的大小。JVM会动态地改变此值。
+
+## jstack 是⼲什么的? jstat 呢？如果线上程序周期性地出现卡顿，你怀疑可 能是 GC 导致的，你会怎么来排查这个问题？线程⽇志⼀般你会看其中的什么 部分？
+
+jstack 用来查询 Java 进程的堆栈信息。
+
+jvisualvm 监控内存泄露，跟踪垃圾回收、执行时内存、cpu分析、线程分析。
+
+## StackOverflow异常有没有遇到过？⼀般你猜测会在什么情况下被触发？如何指定⼀个线程的堆栈⼤⼩？⼀般你们写多少？
+
+栈内存溢出，一般由栈内存的局部变量过爆了，导致内存溢出。出现在递归方法，参数个数过多，递归过深，递归没有出口
+
+## 跟JVM内存相关的几个核心参数图解
+
+![](https://user-gold-cdn.xitu.io/2020/1/16/16fad2ca79ea1cb7?w=391&h=325&f=png&s=8586)
+
+## 如何启动系统的时候设置JVM的启动参数
+
+![](https://user-gold-cdn.xitu.io/2020/1/16/16fad2da823043f8?w=709&h=137&f=png&s=27618)
+
+
+## 结尾
+这篇到时候看到好的就补充进去，先说这么多，然后是实战才是最重要的，你要有实际JVM调优经验，面试才是加分项，至于理论也仅仅是次要的。
+## 日常求赞
+> 好了各位，以上就是这篇文章的全部内容了，能看到这里的人呀，都是**真粉**。
+
+> 创作不易，各位的支持和认可，就是我创作的最大动力，我们下篇文章见
+
+>六脉神剑 | 文 【原创】如果本篇博客有任何错误，请批评指教，不胜感激 ！
