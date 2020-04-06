@@ -94,7 +94,7 @@
 - [[朝花夕拾，不忘初心]| 掘金年度征文 ](https://juejin.im/post/5df97b68f265da33f40f25a7)
 - [佛说：“众生皆苦“，那你觉得你的生活容易嘛？](https://juejin.im/post/5def69a6518825126a6c5ba1)
 - [来瞧瞧阿里一面都面些什么（笔试+机试）](https://juejin.im/post/5e60f6d05188254963276acc)
-
+- [来瞧瞧阿里一面都面些什么（二）| 掘金技术征文](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483668&idx=1&sn=4659ffb897440df71fa4a8a8f233eb58&chksm=a6c0cceb91b745fdca06e5c348c1d9f23264233d0bc7d173cfab92bb9f47c58eb255599dfc6a&token=501128817&lang=zh_CN#rd)
 
 ## 福利
 - [电子书(请勿传播)](/src/福利/电子书.md)
