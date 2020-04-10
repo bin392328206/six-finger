@@ -12,7 +12,7 @@
 
 ## Java基础
 - [史上最全的Java基础（针对面试）](https://juejin.im/post/5de77e7cf265da33f63f39f4)
-- [你不知道的Java内部类](https://juejin.im/post/5df0a84fe51d4557f544f7ac)
+- [你不知道的Java内部类](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483692&idx=1&sn=723adbef90a9d087a71594a483f783f5&chksm=a6c0ccd391b745c52ee70ab915451f7d04b13f2f3c0948cd8d030eda91c8b2af2ca9238c68c7&token=654727392&lang=zh_CN#rd)
 - [你必须知道的Java泛型](https://juejin.im/post/5df1b667f265da3398562739)
 - [Java基础之Java枚举](https://juejin.im/post/5e08077e51882512820af8d1)
 - 1.8新特性
@@ -50,6 +50,7 @@
 - [史上最全的Java并发系列之Java中的13个原子操作类](https://juejin.im/post/5e006bf6518825126e63a9fb)
 - [史上最全的Java并发系列之Java中的并发工具类](https://juejin.im/post/5e0076a45188251247688749)
 - [史上最全的Java并发系列之Java中的线程池](https://juejin.im/post/5e00a849e51d45581269b42a)
+- [小六六抬杠线程安全](https://juejin.im/post/5e8ec36b51882573a77d08e2)
 
 ## JVM
 - [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
