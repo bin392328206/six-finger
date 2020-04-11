@@ -50,7 +50,7 @@
 - [史上最全的Java并发系列之Java中的13个原子操作类](https://juejin.im/post/5e006bf6518825126e63a9fb)
 - [史上最全的Java并发系列之Java中的并发工具类](https://juejin.im/post/5e0076a45188251247688749)
 - [史上最全的Java并发系列之Java中的线程池](https://juejin.im/post/5e00a849e51d45581269b42a)
-- [小六六抬杠线程安全](https://juejin.im/post/5e8ec36b51882573a77d08e2)
+- [小六六抬杠线程安全](https://mp.weixin.qq.com/s/3IK-JHNc2UHqGRWMnkJ58Q)
 
 ## JVM
 - [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
