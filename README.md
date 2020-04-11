@@ -63,6 +63,7 @@
 - [JVM从入门到入土之实战JVM调优(二)](https://juejin.im/post/5e3177b8f265da3e405031dd)
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
+- [每个Java人都必须掌握的单元测试](https://juejin.im/post/5e9017656fb9a03c2e54216d)
 
 ## Redis
 - [从零开始学Redis之金刚凡境](https://juejin.im/post/5dde62bf5188256ebc1ee256)
