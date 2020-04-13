@@ -93,6 +93,8 @@
     - [史上最全的分布式数据同步中间间canal 之入门篇](https://juejin.im/post/5de6187b51882512727f0454)
     - [史上最全的分布式数据同步中间间canal 之结束篇](https://juejin.im/post/5de7126d6fb9a016526e9961)
 
+## 调优
+- [魔兽世界之阿尔塞斯（Arthas）线上问题解决神器](https://juejin.im/post/5e92945551882573bb78fb72)
 
 ## 代码人生
 - [[朝花夕拾，不忘初心]| 掘金年度征文 ](https://juejin.im/post/5df97b68f265da33f40f25a7)
@@ -108,3 +110,5 @@
 ## 工具
 - [史上最全的企业级项目管理工具之Yapi,禅道,GitLab 搭建](https://juejin.im/post/5e152d8a5188253a624a6fec)
 - [小六六的IDEA过期了，自己整一个](https://juejin.im/post/5e8c4706e51d4546b4350cf5)
+
+
