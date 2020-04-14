@@ -64,7 +64,7 @@
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
 - [每个Java人都必须掌握的单元测试](https://juejin.im/post/5e9017656fb9a03c2e54216d)
-- [图解Spring解决循环依赖]()
+- [图解Spring解决循环依赖](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483719&idx=1&sn=3a06ef1924419d46e6b81ea86880cb2d&chksm=a6c0ccb891b745ae28ceabce1b4dc845ca89712)
 ## Redis
 - [从零开始学Redis之金刚凡境](https://juejin.im/post/5dde62bf5188256ebc1ee256)
 - [从零开始学Redis之自在地境](https://juejin.im/post/5de24ca25188255e8b76e1c4)
