@@ -8,7 +8,8 @@ import java.util.concurrent.locks.LockSupport;
  * public native void park(boolean isAbsolute, long time);
  * 两个函数声明清楚地说明了操作对象：park函数是将当前Thread阻塞，而unpark函数则是将另一个Thread唤醒。
  *
- * 与Object类的wait/notify机制相比，park/unpark有两个优点：1. 以thread为操作对象更符合阻塞线程的直观定义；2. 操作更精准，可以准确地唤醒某一个线程（notify随机唤醒一个线程，notifyAll唤醒所有等待的线程），增加了灵活性。
+ * 与Object类的wait/notify机制相比，park/unpark有两个优点：1. 以thread为操作对象更符合阻塞线程的直观定义；2. 操作更精准，
+ * 可以准确地唤醒某一个线程（notify随机唤醒一个线程，notifyAll唤醒所有等待的线程），增加了灵活性。
  */
 public class Foo3 {
     static Thread t1=null,t2=null,t3=null;
@@ -34,7 +35,8 @@ public class Foo3 {
 
 
         public static void main(String[] args) throws Exception {
-            final Foo3 foo = new Foo3();
+
+        final Foo3 foo = new Foo3();
 
              t1 = new Thread(new Runnable() {
                 @Override
