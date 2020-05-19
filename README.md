@@ -53,7 +53,7 @@
 - [史上最全的Java并发系列之Java中的线程池](https://juejin.im/post/5e00a849e51d45581269b42a)
 - [小六六抬杠线程安全](https://mp.weixin.qq.com/s/3IK-JHNc2UHqGRWMnkJ58Q)
 - [Thread  State 详解](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483781&idx=1&sn=10c4944828995742236a47bd4092e87a&chksm=a6c0cc7a91b7456c638dd43282207f10cf9a3b0ea1db96d696300709e0ef9ddb84442fd66603&token=324884800&lang=zh_CN#rd)
-
+- [一张图读懂Java非公平锁与公平锁](https://juejin.im/post/5ec1eca4f265da7bdb322850)
 ## JVM
 - [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
 - [JVM从入门到入土之JVM的类文件结构](https://juejin.im/post/5e1d19b26fb9a02fee1ed155)
