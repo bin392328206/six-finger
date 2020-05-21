@@ -83,6 +83,8 @@
 - [Mysql（一）Schema 数据类型优化 和索引基础](https://juejin.im/post/5e40c87b518825494905b7ac)
 - [Mysql的Select 和Update的执行过程](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483752&idx=1&sn=84a50fd9197aca938c1b6144b843f3d6&chksm=a6c0cc9791b745811fb8aa889990b66bc13acdfa3493f843bedf80b64ed8d40191961c8ac849&token=1932512762&lang=zh_CN#rd) 
 - [Mysql从入门到入神之（三）InnoDB的存储结构](https://juejin.im/post/5e8191b4e51d4546d961e674)
+- [Mysql从入门到入神之（四）B+树索引](https://juejin.im/post/5e81b5c8e51d4546b659b591)
+
 ## ElasticSearch
 - [史上最全的ElasticSearch系列之入门](https://juejin.im/post/5e04613ff265da33ee17944b)
 - [史上最全的ElasticSearch系列之基础（一）](https://juejin.im/post/5e06cd12e51d45583e4dd495)
