@@ -79,6 +79,8 @@
 - [从零开始学Redis之半步神游](https://juejin.im/post/5de49cbbf265da05d03826d5)
 - [从零开始学Redis之神游玄境](https://juejin.im/post/5de4d504518825051411c83b)
 - [从零开始学Redis之分布式锁](https://juejin.im/post/5e64ac386fb9a07cb74be2c5)
+- 亿级缓存架构
+    - [亿级流量缓存架构学习（一）](https://juejin.im/post/5ec8cc5c6fb9a047dd2745f5)
 
 ## Mysql
 - [Mysql（一）Schema 数据类型优化 和索引基础](https://juejin.im/post/5e40c87b518825494905b7ac)
