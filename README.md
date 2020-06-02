@@ -72,6 +72,7 @@
 - [图解Spring解决循环依赖](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483719&idx=1&sn=3a06ef1924419d46e6b81ea86880cb2d&chksm=a6c0ccb891b745ae28ceabce1b4dc845ca89712)
 - [SpringBoot+ItextPdf生成PDF+页眉+水印](https://juejin.im/post/5ea920886fb9a0437055ad8b)
 - [小六六踩坑基于Jar包的文件路径读写](https://juejin.im/post/5eb8c8a65188256d6e212f9e)
+- [SpringBoot多数据源的实现](https://juejin.im/post/5ea280bcf265da47f0794f4a)
 ## Redis
 - [从零开始学Redis之金刚凡境](https://juejin.im/post/5dde62bf5188256ebc1ee256)
 - [从零开始学Redis之自在地境](https://juejin.im/post/5de24ca25188255e8b76e1c4)
