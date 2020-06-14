@@ -53,7 +53,8 @@
 - [史上最全的Java并发系列之Java中的线程池](https://juejin.im/post/5e00a849e51d45581269b42a)
 - [小六六抬杠线程安全](https://mp.weixin.qq.com/s/3IK-JHNc2UHqGRWMnkJ58Q)
 - [Thread  State 详解](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483781&idx=1&sn=10c4944828995742236a47bd4092e87a&chksm=a6c0cc7a91b7456c638dd43282207f10cf9a3b0ea1db96d696300709e0ef9ddb84442fd66603&token=324884800&lang=zh_CN#rd)
-
+- [一张图读懂Java非公平锁与公平锁](https://juejin.im/post/5ec1eca4f265da7bdb322850)
+- [AQS源码解析](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483875&idx=1&sn=3ee2a0ab18e22f23da4227be714b8601&chksm=a6c0cc1c91b7450a212af4be2100cc69e546e6b4118d04acff7f90a30238d987b387f5872b37&token=1819594580&lang=zh_CN#rd)
 ## JVM
 - [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
 - [JVM从入门到入土之JVM的类文件结构](https://juejin.im/post/5e1d19b26fb9a02fee1ed155)
@@ -71,7 +72,7 @@
 - [图解Spring解决循环依赖](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483719&idx=1&sn=3a06ef1924419d46e6b81ea86880cb2d&chksm=a6c0ccb891b745ae28ceabce1b4dc845ca89712)
 - [SpringBoot+ItextPdf生成PDF+页眉+水印](https://juejin.im/post/5ea920886fb9a0437055ad8b)
 - [小六六踩坑基于Jar包的文件路径读写](https://juejin.im/post/5eb8c8a65188256d6e212f9e)
-- [小白鼠带你啃Spring源码之毁三观的spring自动注入（手动装配）](https://juejin.im/post/5e521a3ee51d4526fe650d1d)
+- [SpringBoot多数据源的实现](https://juejin.im/post/5ea280bcf265da47f0794f4a)
 ## Redis
 - [从零开始学Redis之金刚凡境](https://juejin.im/post/5dde62bf5188256ebc1ee256)
 - [从零开始学Redis之自在地境](https://juejin.im/post/5de24ca25188255e8b76e1c4)
@@ -79,11 +80,17 @@
 - [从零开始学Redis之半步神游](https://juejin.im/post/5de49cbbf265da05d03826d5)
 - [从零开始学Redis之神游玄境](https://juejin.im/post/5de4d504518825051411c83b)
 - [从零开始学Redis之分布式锁](https://juejin.im/post/5e64ac386fb9a07cb74be2c5)
+- 亿级缓存架构
+    - [亿级流量缓存架构学习（一）](https://juejin.im/post/5ec8cc5c6fb9a047dd2745f5)
 
 ## Mysql
 - [Mysql（一）Schema 数据类型优化 和索引基础](https://juejin.im/post/5e40c87b518825494905b7ac)
 - [Mysql的Select 和Update的执行过程](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483752&idx=1&sn=84a50fd9197aca938c1b6144b843f3d6&chksm=a6c0cc9791b745811fb8aa889990b66bc13acdfa3493f843bedf80b64ed8d40191961c8ac849&token=1932512762&lang=zh_CN#rd) 
 - [Mysql从入门到入神之（三）InnoDB的存储结构](https://juejin.im/post/5e8191b4e51d4546d961e674)
+- [Mysql从入门到入神之（四）B+树索引](https://juejin.im/post/5e81b5c8e51d4546b659b591)
+- [Mysql从入门到入神之（五）表空间和单表查询](https://juejin.im/post/5e86aa14f265da47dd397f72)
+- [Mysql从入门到入神之（六）查询性能优化](https://juejin.im/post/5e86e3f2f265da47f967449d)
+
 ## ElasticSearch
 - [史上最全的ElasticSearch系列之入门](https://juejin.im/post/5e04613ff265da33ee17944b)
 - [史上最全的ElasticSearch系列之基础（一）](https://juejin.im/post/5e06cd12e51d45583e4dd495)
@@ -106,6 +113,7 @@
 
 ## 调优
 - [魔兽世界之阿尔塞斯（Arthas）线上问题解决神器](https://juejin.im/post/5e92945551882573bb78fb72)
+- [读公司开发规范记录](https://juejin.im/post/5eb9fbcd6fb9a043383d7866#heading-22)
 
 ## 代码人生
 - [[朝花夕拾，不忘初心]| 掘金年度征文 ](https://juejin.im/post/5df97b68f265da33f40f25a7)
@@ -121,7 +129,7 @@
 ## 工具
 - [史上最全的企业级项目管理工具之Yapi,禅道,GitLab 搭建](https://juejin.im/post/5e152d8a5188253a624a6fec)
 - [小六六的IDEA过期了，自己整一个](https://juejin.im/post/5e8c4706e51d4546b4350cf5)
-
+- [全局统一异常](https://www.jianshu.com/p/3f3d9e8d1efa)
 
 ## 力扣系列
 - [多线程之按顺序打印结果](https://mp.weixin.qq.com/s/X3yascHaq7GIybOdimmAXg)
