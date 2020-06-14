@@ -73,6 +73,7 @@
 - [SpringBoot+ItextPdf生成PDF+页眉+水印](https://juejin.im/post/5ea920886fb9a0437055ad8b)
 - [小六六踩坑基于Jar包的文件路径读写](https://juejin.im/post/5eb8c8a65188256d6e212f9e)
 - [SpringBoot多数据源的实现](https://juejin.im/post/5ea280bcf265da47f0794f4a)
+- [小白鼠带你啃Spring源码之毁三观的spring自动注入（手动装配）](https://juejin.im/post/5e521a3ee51d4526fe650d1d)
 ## Redis
 - [从零开始学Redis之金刚凡境](https://juejin.im/post/5dde62bf5188256ebc1ee256)
 - [从零开始学Redis之自在地境](https://juejin.im/post/5de24ca25188255e8b76e1c4)
