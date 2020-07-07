@@ -115,7 +115,8 @@
 - canal
     - [史上最全的分布式数据同步中间间canal 之入门篇](https://juejin.im/post/5de6187b51882512727f0454)
     - [史上最全的分布式数据同步中间间canal 之结束篇](https://juejin.im/post/5de7126d6fb9a016526e9961)
-
+- nacos
+    - [采坑SpringBoot2.2.0+Nacos做分布式配置中心原理（一）](https://juejin.im/post/5ef8892de51d45348675bee2)
 ## 调优
 - [魔兽世界之阿尔塞斯（Arthas）线上问题解决神器](https://juejin.im/post/5e92945551882573bb78fb72)
 - [读公司开发规范记录](https://juejin.im/post/5eb9fbcd6fb9a043383d7866#heading-22)
