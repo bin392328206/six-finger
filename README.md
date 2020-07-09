@@ -115,6 +115,8 @@
     - [史上最全的分布式数据同步中间间canal 之结束篇](https://juejin.im/post/5de7126d6fb9a016526e9961)
 - nacos
     - [采坑SpringBoot2.2.0+Nacos做分布式配置中心原理（一）](https://juejin.im/post/5ef8892de51d45348675bee2)
+    - [Nacos做分布式配置中心原理（二）](https://juejin.im/post/5ef8a736e51d453dec116003)
+    - [@RefreshScope 自动刷新原理（三）](https://juejin.im/post/5f0314e95188252e7f773ecd)
 ## 调优
 - [魔兽世界之阿尔塞斯（Arthas）线上问题解决神器](https://juejin.im/post/5e92945551882573bb78fb72)
 - [读公司开发规范记录](https://juejin.im/post/5eb9fbcd6fb9a043383d7866#heading-22)
