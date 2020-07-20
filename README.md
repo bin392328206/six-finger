@@ -80,6 +80,9 @@
 - [小白鼠带你啃Spring源码之毁三观的spring自动注入（手动装配）](https://juejin.im/post/5e521a3ee51d4526fe650d1d)
 - [小白鼠带你啃Spring源码之Spring的循环依赖（超过万字的源码分析）](https://juejin.im/post/5e52370bf265da5732552755)
 - [小白鼠带你啃Spring源码之BeanDifinition（加几行代码，可以产出让队友几天也找不出的Bug）](https://juejin.im/post/5e53895e518825491753ac45)
+
+## Mybatis 
+- [MyBatis源码学习（一）](https://juejin.im/post/5ed79de2518825431845aa1c)
 ## Redis
 - [从零开始学Redis之金刚凡境](https://juejin.im/post/5dde62bf5188256ebc1ee256)
 - [从零开始学Redis之自在地境](https://juejin.im/post/5de24ca25188255e8b76e1c4)
