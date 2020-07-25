@@ -80,7 +80,7 @@
 - [小白鼠带你啃Spring源码之毁三观的spring自动注入（手动装配）](https://juejin.im/post/5e521a3ee51d4526fe650d1d)
 - [小白鼠带你啃Spring源码之Spring的循环依赖（超过万字的源码分析）](https://juejin.im/post/5e52370bf265da5732552755)
 - [小白鼠带你啃Spring源码之BeanDifinition（加几行代码，可以产出让队友几天也找不出的Bug）](https://juejin.im/post/5e53895e518825491753ac45)
-
+- [spring中aop拦截自定义注解不生效](https://juejin.im/post/5f17d9acf265da22d26ba5be)
 ## Mybatis 
 - [MyBatis源码学习（一）](https://juejin.im/post/5ed79de2518825431845aa1c)
 - [MyBatis源码学习（二）](https://juejin.im/post/5edb23196fb9a047b11b59e3)
