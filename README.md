@@ -15,7 +15,9 @@
 - [你不知道的Java内部类](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483692&idx=1&sn=723adbef90a9d087a71594a483f783f5&chksm=a6c0ccd391b745c52ee70ab915451f7d04b13f2f3c0948cd8d030eda91c8b2af2ca9238c68c7&token=654727392&lang=zh_CN#rd)
 - [你必须知道的Java泛型](https://juejin.im/post/5df1b667f265da3398562739)
 - [Java基础之Java枚举](https://juejin.im/post/5e08077e51882512820af8d1)
-- [Java基础知识（一些需要注意的点）]()
+- [Java基础知识（一些需要注意的点）](https://juejin.im/post/5ea92fd35188256d50159648)
+- [了解布隆过滤器](https://juejin.im/post/5f0effb46fb9a07ea55f1388)
+- [你还在用BeanUtils做对象拷贝吗？](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247484208&idx=1&sn=22a7c6f18c68d82360e8ca5fb9b3e0d5&chksm=a6c0cecf91b747d9852cca2ffea059d31eb3eddafcea3ee94556c5fa8d31628eaa4b9119b470&token=2050038348&lang=zh_CN#rd)
 - 1.8新特性
     - [Java8新特性之Lambda表达式，函数式接口，方法引用和default关键字](https://juejin.im/post/5df36bdf6fb9a01608237621)
     - [Java8新特性之Optional类](https://juejin.im/post/5df4507f51882512523e7af9)
@@ -55,6 +57,8 @@
 - [Thread  State 详解](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483781&idx=1&sn=10c4944828995742236a47bd4092e87a&chksm=a6c0cc7a91b7456c638dd43282207f10cf9a3b0ea1db96d696300709e0ef9ddb84442fd66603&token=324884800&lang=zh_CN#rd)
 - [一张图读懂Java非公平锁与公平锁](https://juejin.im/post/5ec1eca4f265da7bdb322850)
 - [AQS源码解析](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483875&idx=1&sn=3ee2a0ab18e22f23da4227be714b8601&chksm=a6c0cc1c91b7450a212af4be2100cc69e546e6b4118d04acff7f90a30238d987b387f5872b37&token=1819594580&lang=zh_CN#rd)
+- [ThreadLocal全面解析（一）](https://juejin.im/post/5f058d8ae51d4534695c2237)
+- [ThreadLocal全面解析（二）](https://juejin.im/post/5f06bd94f265da22e77c1237)
 ## JVM
 - [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
 - [JVM从入门到入土之JVM的类文件结构](https://juejin.im/post/5e1d19b26fb9a02fee1ed155)
@@ -76,8 +80,11 @@
 - [小白鼠带你啃Spring源码之毁三观的spring自动注入（手动装配）](https://juejin.im/post/5e521a3ee51d4526fe650d1d)
 - [小白鼠带你啃Spring源码之Spring的循环依赖（超过万字的源码分析）](https://juejin.im/post/5e52370bf265da5732552755)
 - [小白鼠带你啃Spring源码之BeanDifinition（加几行代码，可以产出让队友几天也找不出的Bug）](https://juejin.im/post/5e53895e518825491753ac45)
-
-- [小白鼠带你啃Spring源码之BeanDifinition（二）](https://juejin.im/post/5e552d6de51d4526ec0d3719)
+- [spring中aop拦截自定义注解不生效](https://juejin.im/post/5f17d9acf265da22d26ba5be)
+## Mybatis 
+- [MyBatis源码学习（一）](https://juejin.im/post/5ed79de2518825431845aa1c)
+- [MyBatis源码学习（二）](https://juejin.im/post/5edb23196fb9a047b11b59e3)
+- [MyBatis源码学习（三）](https://juejin.im/post/5edb6059e51d45783e17bb04)
 ## Redis
 - [从零开始学Redis之金刚凡境](https://juejin.im/post/5dde62bf5188256ebc1ee256)
 - [从零开始学Redis之自在地境](https://juejin.im/post/5de24ca25188255e8b76e1c4)
@@ -110,6 +117,7 @@
 - [史上最全的企业级容器系列之kubernetes入门和搭建(二)](https://juejin.im/post/5e13e20b6fb9a047fd1e6d1d)
 - [史上最全的企业级容器系列之kubernetes入门和搭建(三)](https://juejin.im/post/5e143b36f265da5d1c6320fa)
 - [史上最全的企业级容器系列之kubernetes入门和搭建(四)](https://juejin.im/post/5e14470cf265da5d0c542743)
+- [初识Docker](https://juejin.im/post/6855500963516841992)
 ##  分布式
 - [分布式事务](https://juejin.im/post/5dd91428f265da7dcc7e5930)
 - canal
@@ -117,6 +125,8 @@
     - [史上最全的分布式数据同步中间间canal 之结束篇](https://juejin.im/post/5de7126d6fb9a016526e9961)
 - nacos
     - [采坑SpringBoot2.2.0+Nacos做分布式配置中心原理（一）](https://juejin.im/post/5ef8892de51d45348675bee2)
+    - [Nacos做分布式配置中心原理（二）](https://juejin.im/post/5ef8a736e51d453dec116003)
+    - [@RefreshScope 自动刷新原理（三）](https://juejin.im/post/5f0314e95188252e7f773ecd)
 ## 调优
 - [魔兽世界之阿尔塞斯（Arthas）线上问题解决神器](https://juejin.im/post/5e92945551882573bb78fb72)
 - [读公司开发规范记录](https://juejin.im/post/5eb9fbcd6fb9a043383d7866#heading-22)
