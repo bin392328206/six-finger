@@ -85,6 +85,7 @@
 - [MyBatis源码学习（一）](https://juejin.im/post/5ed79de2518825431845aa1c)
 - [MyBatis源码学习（二）](https://juejin.im/post/5edb23196fb9a047b11b59e3)
 - [MyBatis源码学习（三）](https://juejin.im/post/5edb6059e51d45783e17bb04)
+- [MyBatis源码学习（四）](https://juejin.im/post/6857358748152381447/)
 ## Redis
 - [从零开始学Redis之金刚凡境](https://juejin.im/post/5dde62bf5188256ebc1ee256)
 - [从零开始学Redis之自在地境](https://juejin.im/post/5de24ca25188255e8b76e1c4)
