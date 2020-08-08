@@ -40,7 +40,7 @@
 
 <u>使用MQ保证在下单失败后系统数据的完整性</u>
 
-![](img/下单时序图(2).png)
+![](doc/img/下单时序图(2).png)
 
 ###问题2
 
@@ -48,11 +48,11 @@
 
 商家支付系统如何保证在收到第三方支付平台的异步通知时，如何快速给第三方支付凭条做出回应？
 
-![](img/支付流程.png)
+![](doc/img/支付流程.png)
 
 <u>通过MQ进行数据分发，提高系统处理性能</u>
 
-![](img/支付成功数据分发流程图.png)
+![](doc/img/支付成功数据分发流程图.png)
 
 # 2. 技术分析
 
@@ -64,7 +64,7 @@
 - RocketMQ
 - Mysql
 
-![](img/项目结构图.png)
+![](doc/img/项目结构图.png)
 
 ## 2.2 SpringBoot整合RocketMQ
 
@@ -611,7 +611,7 @@ shop系统基于Maven进行项目管理
 
 ### 3.1.1 工程浏览
 
-![](img/项目初始化.png)
+![](doc/img/项目初始化.png)
 
 - 父工程：shop-parent
 - 订单系统：shop-order-web
@@ -630,7 +630,7 @@ shop系统基于Maven进行项目管理
 
 ### 3.1.2 工程关系
 
-![](img/项目结构图.png)
+![](doc/img/项目结构图.png)
 
 ## 3.3 Mybatis逆向工程使用
 
@@ -665,7 +665,7 @@ shop系统基于Maven进行项目管理
 
 # 4. 下单业务
 
-![](img/下单时序图(2).png)
+![](doc/img/下单时序图(2).png)
 
 ## 4.1 下单基本流程
 
@@ -721,7 +721,7 @@ public class OrderServiceImpl implements IOrderService {
 
 ###3）校验订单
 
-![](img/校验订单(2).png)
+![](doc/img/校验订单(2).png)
 
 ```java
 private void checkOrder(TradeOrder order) {
@@ -754,7 +754,7 @@ private void checkOrder(TradeOrder order) {
 
 ###4）生成预订单
 
-![](img/生成预订单.png)
+![](doc/img/生成预订单.png)
 
 ```java
 private Long savePreOrder(TradeOrder order) {
@@ -951,7 +951,7 @@ private void reduceMoneyPaid(TradeOrder order) {
 
 * 用户服务UserService,更新余额
 
-![](img/更改用户余额.png)
+![](doc/img/更改用户余额.png)
 
 ```java
 @Override
@@ -1168,7 +1168,7 @@ public class CancelOrderConsumer implements RocketMQListener<MessageExt>{
 
 * 流程分析
 
-![](img/回退库存.png)
+![](doc/img/回退库存.png)
 
 * 消息消费者
 
@@ -1463,7 +1463,7 @@ public void add(){
 
 ## 5.1 创建支付订单
 
-![](img/创建支付订单.png)
+![](doc/img/创建支付订单.png)
 
 ```java
 public Result createPayment(TradePay tradePay) {
@@ -1494,7 +1494,7 @@ public Result createPayment(TradePay tradePay) {
 
 ### 5.2.1 流程分析
 
-![](img/12.支付后回调.png)
+![](doc/img/12.支付后回调.png)
 
 ### 5.2.2 代码实现
 
