@@ -30,6 +30,8 @@
 - 网络
     - [Java基础之网络编程（一）](https://juejin.im/post/5df84c566fb9a0164c7baa0e)
     - [Java基础之网络编程（二）](https://juejin.im/post/5df899b06fb9a0163307467d)
+    - Netty
+        - [小六六学Netty系列之Java BIO](https://juejin.im/post/6859336784627646471)
 ## Java容器
 - [史上最全的Java容器集合之入门](https://juejin.im/post/5de87a92e51d4557ec02f39d)
 - [史上最全的Java容器集合之基础数据结构（手撕链表）](https://juejin.im/post/5de8cdb5f265da33c34e2719)
