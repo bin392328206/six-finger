@@ -39,6 +39,7 @@
         - [小六六学Netty系列之初识Netty](https://juejin.im/post/6864749738827186183)
         - [小六六学Netty系列之再遇Netty](https://juejin.im/post/6865910744739741703)
         - [小六六学Netty系列之Netty群聊](https://juejin.im/post/6868144990603640846)
+        - [小六六学Netty系列之编解码器和handler的调用机制](https://juejin.im/post/6869562100495155207)
 ## Java容器
 - [史上最全的Java容器集合之入门](https://juejin.im/post/5de87a92e51d4557ec02f39d)
 - [史上最全的Java容器集合之基础数据结构（手撕链表）](https://juejin.im/post/5de8cdb5f265da33c34e2719)
