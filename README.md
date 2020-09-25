@@ -95,6 +95,7 @@
 - [小白鼠带你啃Spring源码之BeanDifinition（加几行代码，可以产出让队友几天也找不出的Bug）](https://juejin.im/post/5e53895e518825491753ac45)
 - [spring中aop拦截自定义注解不生效](https://juejin.im/post/5f17d9acf265da22d26ba5be)
 - [Spring Boot 之使用 validation 验证参数](https://juejin.im/post/6870691040009912327/)
+- [面试题：自己实现一个简单的IOC容器](https://juejin.im/post/6876228192818954254/)
 - security
     - [Spring Security Oauth2 之 密码模式请求/oauth/token 解析](https://juejin.im/post/6875511668596539399)
 ## Mybatis 
