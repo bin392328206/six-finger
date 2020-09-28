@@ -148,6 +148,9 @@
     
 - rocketmq
     - [小六六带大家来撸撸rocketmq(一)](https://juejin.im/post/6858440955986051079/)
+    
+- 分布式定时任务
+    - [XXl-job 部分源码解析](https://juejin.im/post/6877366438261981191/)
 ## 调优
 - [魔兽世界之阿尔塞斯（Arthas）线上问题解决神器](https://juejin.im/post/5e92945551882573bb78fb72)
 - [读公司开发规范记录](https://juejin.im/post/5eb9fbcd6fb9a043383d7866#heading-22)
