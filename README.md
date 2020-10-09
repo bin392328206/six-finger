@@ -148,7 +148,7 @@
     
 - rocketmq
     - [小六六带大家来撸撸rocketmq(一)](https://juejin.im/post/6858440955986051079/)
-    
+    - [小六六带大家来撸撸rocketmq(二)](https://juejin.im/post/6881534240786726926/)
 - 分布式定时任务
     - [XXl-job 部分源码解析](https://juejin.im/post/6877366438261981191/)
 ## 调优
