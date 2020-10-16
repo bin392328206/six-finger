@@ -74,6 +74,7 @@
 - [ThreadLocal全面解析（二）](https://juejin.im/post/5f06bd94f265da22e77c1237)
 ## 项目博客
 - [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（一）](https://juejin.im/post/6883005240740675591/)
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（二）](https://juejin.im/post/6884027512343494669)
 
 ## JVM
 - [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
