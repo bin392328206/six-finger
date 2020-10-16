@@ -55,29 +55,27 @@ public class HuiWen {
 
     public static Boolean isHuiWen(LinkNode head) {
 
-        if (head == null) {
+        if (null == head) {
             return false;
         }
-        //慢指针
-        LinkNode slow = head;
-        //快指针
+
+        //定义几个链表
         LinkNode fast = head;
-        //这个节点记录 前半部分 反转的链表节点
-        //每次slow节点移动 prev节点跟着移动 将slow的下一个节点指向prev
-        LinkNode prev = null;
 
-        //三个节点的形式是prev追slow,slow追fast,fast赶到终点
-        while (fast != null && fast.next != null) {
+        LinkNode slow = head;
 
+        LinkNode pre = null;
+
+        while (null != fast && fast.getNext() != null) {
+            //快的走2步
             fast = fast.next.next;
             //定义一个节点 记录当前节点的下一个节点的值 最终赋值给slow
             LinkNode next = slow.next;
 
+            //把slow  其实就是把pre倒转
+            slow.next = pre;
 
-            slow.next = prev;
-
-            prev = slow;
-
+            pre = slow;
             slow = next;
         }
 
@@ -86,13 +84,15 @@ public class HuiWen {
             slow = slow.next;
         }
 
-        while(slow!=null){
-            if(slow.data!=prev.data){
+        while (slow != null) {
+            if (slow.data != pre.data) {
                 return false;
             }
-            slow=slow.next;
-            prev=prev.next;
+            slow = slow.next;
+            pre = pre.next;
         }
         return true;
+
+
     }
 }
