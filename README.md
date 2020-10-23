@@ -174,7 +174,8 @@
 - [电子书(请勿传播)](/src/福利/电子书.md)
 - [Java小白的多啦A梦](https://juejin.im/post/5e7df09be51d4546fe26122d)
 
-
+## 项目监控
+- [SpringBoot使用Graylog日志收集](https://juejin.im/post/6886717118801248270)
 ## 工具
 - [史上最全的企业级项目管理工具之Yapi,禅道,GitLab 搭建](https://juejin.im/post/5e152d8a5188253a624a6fec)
 - [小六六的IDEA过期了，自己整一个](https://juejin.im/post/5e8c4706e51d4546b4350cf5)
