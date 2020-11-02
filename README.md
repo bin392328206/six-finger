@@ -79,7 +79,7 @@
 - [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（四）](https://juejin.im/post/6885994038278193165)
 - [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（五）](https://juejin.im/post/6888926292285063176/)
 - [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（六）](https://juejin.im/post/6889627826451021831)
-
+- [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（七）](https://juejin.im/post/6890406233061195789/)
 ## JVM
 - [JVM从入门到入土之JVM的类加载机制](https://juejin.im/post/5e1aaf626fb9a0301d11ac8e)
 - [JVM从入门到入土之JVM的类文件结构](https://juejin.im/post/5e1d19b26fb9a02fee1ed155)
