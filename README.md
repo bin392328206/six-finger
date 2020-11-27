@@ -99,6 +99,7 @@
 - [JVM从入门到入土之实战G1垃圾回收器(二)](https://juejin.im/post/5e367eae6fb9a02fdb5a7f79)
 ## Spring
 - [在Spring事务管理下，Synchronized为啥还线程不安全？](https://juejin.im/post/5ddc7a23e51d452331202721)
+- [一个@Async 引起的血案 ](https://juejin.cn/post/6899722409591439374/)
 - [每个Java人都必须掌握的单元测试](https://juejin.im/post/5e9017656fb9a03c2e54216d)
 - [图解Spring解决循环依赖](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483719&idx=1&sn=3a06ef1924419d46e6b81ea86880cb2d&chksm=a6c0ccb891b745ae28ceabce1b4dc845ca89712)
 - [SpringBoot+ItextPdf生成PDF+页眉+水印](https://juejin.im/post/5ea920886fb9a0437055ad8b)
