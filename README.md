@@ -167,6 +167,7 @@
     - [小六六带大家来撸撸rocketmq(三)](https://juejin.im/post/6882614360020598792/)
 - zookeeper
     - [小六六学Zookeeper（一）] (https://juejin.cn/post/6906282139826782215/)
+    - [小六六学Zookeeper（二）]()
 - 分布式定时任务
     - [XXl-job 部分源码解析](https://juejin.im/post/6877366438261981191/)
 ## 调优

@@ -19,8 +19,11 @@ package com.code;
 public class MySqrt {
 
     public static void main(String[] args) {
+
         int i = mySqrt(3);
         System.out.println(i);
+
+        System.out.println("\b小刘\n大");
     }
 
 
