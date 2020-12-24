@@ -206,3 +206,4 @@
 - [交互式分析型数据库Hologres](https://juejin.cn/post/6903452075519442958/)
 - hadoop
     - [小六六学大数据之 Hadoop(一)](https://juejin.cn/post/6909353369702252558)
+    - [小六六学大数据之 Hadoop(二)](https://juejin.cn/post/6909741852337897486/)
