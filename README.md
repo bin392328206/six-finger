@@ -207,3 +207,6 @@
 - hadoop
     - [小六六学大数据之 Hadoop(一)](https://juejin.cn/post/6909353369702252558)
     - [小六六学大数据之 Hadoop(二)](https://juejin.cn/post/6909741852337897486/)
+    
+- hive
+    - [小六六学大数据之 Hive](https://juejin.cn/post/6911600258514419725/)
