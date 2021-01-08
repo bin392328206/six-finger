@@ -212,3 +212,6 @@
     
 - hive
     - [小六六学大数据之 Hive](https://juejin.cn/post/6911600258514419725/)
+    
+- hbase 
+    - [小六六学大数据之 Hbase](https://juejin.cn/post/6914623158263742477)
