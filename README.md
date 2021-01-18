@@ -47,6 +47,7 @@
     - [重学网络系列之（HTTP的前世今生）](https://juejin.cn/post/6916720549636866056)
     - [重学网络系列之（我的名字叫IP）](https://juejin.cn/post/6917139283463634951)
     - [重学网络系列之（Ping与网关）](https://juejin.cn/post/6917538451633995790)
+    - [重学网络系列之（搭建Http实验环境）](https://juejin.cn/post/6919021812781170701)
 ## Java容器
 - [史上最全的Java容器集合之入门](https://juejin.im/post/5de87a92e51d4557ec02f39d)
 - [史上最全的Java容器集合之基础数据结构（手撕链表）](https://juejin.im/post/5de8cdb5f265da33c34e2719)
