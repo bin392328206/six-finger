@@ -175,7 +175,7 @@
 - zookeeper
     - [小六六学Zookeeper（一）](https://juejin.cn/post/6906282139826782215/)
     - [小六六学Zookeeper（二）](https://juejin.cn/post/6907159632330883085/)
-    - [小六六学Zookeeper（三）](https://juejin.cn/post/6907159632330883085/)
+    - [小六六学Zookeeper（三）](https://juejin.cn/post/6908614200696766478#heading-7)
 - 分布式定时任务
     - [XXl-job 部分源码解析](https://juejin.im/post/6877366438261981191/)
 ## 调优
