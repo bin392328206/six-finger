@@ -209,7 +209,8 @@
 - [两两交换链表中的节点](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&tempkey=MTA1OV8wZ0N4OTR0TTVkaXM4blg0elF1M0x2NDYtdTRuLTJFdDVEckU0clFhU1R1ZjhBb2lSZkZqZTlYTEU2T2lNZDFEYjZsNFJid3EybVI0dDBOVTVVRWlMcWltMzBaTTQ3dGV0Wl8yYllqeGlYLWc5bjZyVHlIOFZEVUY4M0NvUG5QbHZFYThnb0FjdGs2RXl3ZWh4UXg5T1M1U0hTNFlkckctVTBlZUF3fn4%3D&chksm=26c0cc8d11b7459b7d567b1ce65f21f96fb986c24e57cf39397a83a754f97855b9db362961b2&__mpa_temp_link_flag=1&token=713300618#rd)
 - [【力扣】之字母异位词分组](https://juejin.im/post/6867733354012213262)
 
-
+## 中台架构
+- [架构思维成长系列教程（一）- 中台架构的落地方法与实践](https://juejin.cn/post/6948965610130931719/)
 ## 大数据
 - [聊聊大数据技术栈学习](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247484693&idx=1&sn=ddca41620b7b464c3c23b6eb60b4e96d&chksm=a6c0c8ea91b741fcda22febbb31a98c85818b907e049a73225b5b82355d663a8a7c26eee12c8&token=336671299&lang=zh_CN#rd)
 - [交互式分析型数据库Hologres](https://juejin.cn/post/6903452075519442958/)
