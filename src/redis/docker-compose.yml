@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+
+  tomcat:
+
+    restart: always
+
+    image: tomcat
+
+    container_name: tomcat
+
+    ports:
+
+      - 8080:8080
+
+    volumes:
+
+      - d://docker/tomcat/webapps:/usr/local/tomcat/webapps
+
+      - d://docker/tomcat/logs:/usr/local/tomcat/logs
+
+    environment:
+
+      TZ: Asia/Shanghai
