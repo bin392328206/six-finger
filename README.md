@@ -201,6 +201,7 @@
 - [小六六的IDEA过期了，自己整一个](https://juejin.im/post/5e8c4706e51d4546b4350cf5)
 - [全局统一异常](https://www.jianshu.com/p/3f3d9e8d1efa)
 - [小六六跟大家聊聊Typora的骚操作（自动上传图片）](https://juejin.cn/post/6952462355800260638)
+- [安利几款好用的idea插件](https://juejin.cn/post/6974600168263909384)
 
 ## 力扣系列
 - [多线程之按顺序打印结果](https://mp.weixin.qq.com/s/X3yascHaq7GIybOdimmAXg)
