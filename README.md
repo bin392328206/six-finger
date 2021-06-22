@@ -80,6 +80,9 @@
 - [ThreadLocal全面解析（一）](https://juejin.im/post/5f058d8ae51d4534695c2237)
 - [ThreadLocal全面解析（二）](https://juejin.im/post/5f06bd94f265da22e77c1237)
 - [带你了解了解Future和CompletableFuture](https://juejin.im/post/6893676887961403399)
+
+- 小六六平时开发技巧
+- [小六六平时的开发小技巧一（公共属性填充设计）](https://juejin.cn/post/6976067876394385415)
 ## 项目博客
 - [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（一）](https://juejin.im/post/6883005240740675591/)
 - [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（二）](https://juejin.im/post/6884027512343494669)
