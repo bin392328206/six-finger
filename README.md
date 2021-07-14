@@ -194,6 +194,7 @@
 - [来瞧瞧阿里一面都面些什么（二）| 掘金技术征文](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247483668&idx=1&sn=4659ffb897440df71fa4a8a8f233eb58&chksm=a6c0cceb91b745fdca06e5c348c1d9f23264233d0bc7d173cfab92bb9f47c58eb255599dfc6a&token=501128817&lang=zh_CN#rd)
 - [因为不想跑步，所以才去跑步](https://juejin.im/post/6855859447156342792)
 - [愿手下有代码，眼中有星辰](https://juejin.cn/post/6944344896257916936/)
+- [如何去参与一个开源项目](https://juejin.cn/post/6984619253555003428)
 ## 福利
 - [电子书(请勿传播)](/src/福利/电子书.md)
 - [Java小白的多啦A梦](https://juejin.im/post/5e7df09be51d4546fe26122d)
