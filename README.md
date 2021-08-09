@@ -176,6 +176,8 @@
     - [小六六带大家来撸撸rocketmq(一)](https://juejin.im/post/6858440955986051079/)
     - [小六六带大家来撸撸rocketmq(二)](https://juejin.im/post/6881534240786726926/)
     - [小六六带大家来撸撸rocketmq(三)](https://juejin.im/post/6882614360020598792/)
+    - [小六六带大家来撸撸rocketmq(四)](https://juejin.cn/post/6992148719160262663)
+    - [小六六带大家来撸撸rocketmq(五)](https://juejin.cn/post/6993996995455090695)
 - zookeeper
     - [小六六学Zookeeper（一）](https://juejin.cn/post/6906282139826782215/)
     - [小六六学Zookeeper（二）](https://juejin.cn/post/6907159632330883085/)
