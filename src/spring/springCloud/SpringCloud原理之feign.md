@@ -23,7 +23,7 @@
 Feign是一种声明式、模板化的HTTP客户端(仅在Application Client中使用)。声明式调用是指，就像调用本地方法一样调用远程方法，无需感知操作远程http请求。
 Spring Cloud的声明式调用, 可以做到使用 HTTP请求远程服务时能就像调用本地方法一样的体验，开发者完全感知不到这是远程方法，更感知不到这是个HTTP请求。Feign的应用，让Spring Cloud微服务调用像Dubbo一样，Application Client直接通过接口方法调用Application Service，而不需要通过常规的RestTemplate构造请求再解析返回数据。它解决了让开发者调用远程接口就跟调用本地方法一样，无需关注与远程的交互细节，更无需关注分布式环境开发。
 
-Feign是声明性Web服务客户端。它使编写Web服务客户端更加容易。要使用Feign，请创建一个接口并对其进行注释。它具有可插入注释支持，包括Feign注释和JAX-RS注释。Feign还支持可插拔编码器和解码器。Spring Cloud添加了对Spring MVC注释的支持，并支持使用HttpMessageConvertersSpring Web中默认使用的注释。当使用Feign时，Spring Cloud集成了Ribbon和Eureka以提供负载平衡的http客户端。
+Feign是声明式Web服务客户端。它使编写Web服务客户端更加容易。要使用Feign，请创建一个接口并对其进行注释。它具有可插入注释支持，包括Feign注释和JAX-RS注释。Feign还支持可插拔编码器和解码器。Spring Cloud添加了对Spring MVC注释的支持，并支持使用HttpMessageConvertersSpring Web中默认使用的注释。当使用Feign时，Spring Cloud集成了Ribbon和Eureka以提供负载平衡的http客户端。
 
 
 
@@ -38,7 +38,7 @@ Feign是声明性Web服务客户端。它使编写Web服务客户端更加容易
 
 ## 原生的Feign
 
-虽然我们用SpringCloud全家桶比较多，但是其实呢?他只是对原生的fegin做了一些封装，所以刨根问底的话，我们还是多了解了解原生的Fegin,对于我们理解Spring Cloud feign是很有帮助的
+虽然我们用SpringCloud全家桶比较多，但是其实呢?他只是对原生的Feign做了一些封装，所以刨根问底的话，我们还是多了解了解原生的Feign,对于我们理解Spring Cloud feign是很有帮助的
 
 
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5c27dcde93b346f7a9b9344f6f556c3c~tplv-k3u1fbpfcp-zoom-1.image)
@@ -194,7 +194,7 @@ buildTemplate 实际上将 Method 方法的参数转换成 Request。
 将 metadata 和 buildTemplate 封装成 MethodHandler。
 
 
-这样通过以上三步就创建了一个 Target.type 的代理对象 proxy，这个代理对象就可以像访问普通方法一样发送 Http 请求，其实和 RPC 的 Stub 模型是一样的。了解 proxy 后，其执行过程其实也就一模了然。
+这样通过以上三步就创建了一个 Target.type 的代理对象 proxy，这个代理对象就可以像访问普通方法一样发送 Http 请求，其实和 RPC 的 Stub 模型是一样的。了解 proxy 后，其执行过程其实也就一目了然。
 
 ### Feign 调用过程
 
@@ -265,13 +265,13 @@ Request targetRequest(RequestTemplate template) {
     return target.apply(template);
 ```
 
-**这个是原生feign的调用过程，总的来说分为2部 一个是 客户端的封装，一个调用方法的封装**
+**这个是原生feign的调用过程，总的来说分为2步 一个是 客户端的封装，一个调用方法的封装**
 
 
 
 ## Spring Cloud Feign 的原理解析
 
-我们前面看了原生的feign之后呢？对于Spring Cloud的Feign的话理解起来就很简单了，我们知道Spring cloud 是基于SpringBoot SpringBoot 又是基于Spring,那么Spring就是一个胶水框架，它就是把各个组件把它封装起来，所以呢，这样就简单很多了嘛
+我们前面看了原生的feign之后呢？对于Spring Cloud的Feign的话理解起来就很简单了，我们知道Spring cloud 是基于SpringBoot，SpringBoot 又是基于Spring,那么Spring就是一个胶水框架，它就是把各个组件把它封装起来，所以呢，这样就简单很多了嘛
 
 
 小六六在这边就不一一的给大家演示SpringCloud 是如何使用Feign的了，小六六默认大家都懂，哈哈，那么就直接说原理吧
@@ -287,7 +287,7 @@ Request targetRequest(RequestTemplate template) {
 
 那我们基于这些步骤来分析分析，本文并不会说非常深入去看每一行的源码
 - SpringBoot 应用启动时， 由针对 @EnableFeignClient 这一注解的处理逻辑触发程序扫描 classPath中所有被@FeignClient 注解的类， 这里以 XiaoLiuLiuService 为例， 将这些类解析为 BeanDefinition 注册到 Spring 容器中
-- Sping 容器在为某些用的 Feign 接口的 Bean 注入 XiaoLiuLiuService 时， Spring 会尝试从容器中查找 XiaoLiuLiuService 的实现类
+- Spring 容器在为某些用的 Feign 接口的 Bean 注入 XiaoLiuLiuService 时， Spring 会尝试从容器中查找 XiaoLiuLiuService 的实现类
 - 由于我们从来没有编写过 XiaoLiuLiuService 的实现类， 上面步骤获取到的 XiaoLiuLiuService 的实现类必然是 feign 框架通过扩展 spring 的 Bean 处理逻辑， 为 XiaoLiuLiuService 创建一个动态接口代理对象， 这里我们将其称为 XiaoLiuLiuServiceProxy 注册到spring 容器中。
 - Spring 最终在使用到 XiaoLiuLiuService 的 Bean 中注入了 XiaoLiuLiuServiceProxy 这一实例。
 - 当业务请求真实发生时， 对于 XiaoLiuLiuService 的调用被统一转发到了由 Feign 框架实现的 InvocationHandler 中， InvocationHandler 负责将接口中的入参转换为 HTTP 的形式， 发到服务端， 最后再解析 HTTP 响应， 将结果转换为 Java 对象， 予以返回。
