@@ -3,7 +3,7 @@
 > **种一棵树最好的时间是十年前，其次是现在**
 
 ## 絮叨
-为啥想着写这个呢？是这样，小六六每次搭建系统的时候，都会涉及到这块的配置嘛，然后我发现我搭建了这么多次的系统，大部分的情况下，竟然是copy来完成的，然后这次搭建的过程中，又对这些配置又了点理解，所以打算给大家分享分享一些关键的点，让大家多Java 项目的日志有一些更加深入的理解吧!当然这边文章也得给大家清晰的理解logback的配置吧！尽量写的直白点！文章打算冲以下几个方面来描述
+为啥想着写这个呢？是这样，小六六每次搭建系统的时候，都会涉及到这块的配置嘛，然后我发现我搭建了这么多次的系统，大部分的情况下，竟然是copy来完成的，然后这次搭建的过程中，又对这些配置有了点理解，所以打算给大家分享分享一些关键的点，让大家对 Java 项目的日志有一些更加深入的理解吧!当然这边文章也得给大家清晰的理解logback的配置吧！尽量写的直白点！文章打算从以下几个方面来描述
 - 官网文档
 - logback.xml常用配置详解
 - 一个小案例加深对配置的理解
@@ -21,7 +21,7 @@
 
 ![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0e2d495dd14342efbc3f3ec6c8908bee~tplv-k3u1fbpfcp-watermark.image)
 
-相信大家对这个图应该不陌生，就是我们再spring-logback.xml里面要配置的文件就是这几个配置，下面我先来给大家讲讲细节
+相信大家对这个图应该不陌生，就是我们在spring-logback.xml里面要配置的文件就是这几个配置，下面我先来给大家讲讲细节
 
 ### 根节点 configuration
 包含下面三个属性
@@ -31,7 +31,7 @@
 
 
 
-```
+```xml
 <configuration scan="true" scanPeriod="60 seconds" debug="false"> 
 　　  <!--其他配置省略--> 
 </configuration>　
@@ -45,7 +45,7 @@
 #### **ConsoleAppender 把日志输出到控制台**
 
 encoder：对日志进行格式化。
-```
+```xml
 <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
    <encoder>
       <pattern>${CONSOLE_LOG_PATTERN}</pattern>
@@ -59,20 +59,19 @@ encoder：对日志进行格式化。
 - encoder：对记录事件进行格式化。
 - prudent：如果是 true，日志会被安全的写入文件，即使其他的FileAppender也在向此文件做写入操作，效率低，默认是 false。
 
-
-```
+```xml
 <configuration> 
-　　　　　　<appender name="FILE" class="ch.qos.logback.core.FileAppender"> 
-　　　　　　　　<file>testFile.log</file> 
-　　　　　　　　<append>true</append> 
-　　　　　　　　<encoder> 
-　　　　　　　　　　<pattern>%-4relative [%thread] %-5level %logger{35} - %msg%n</pattern> 
-　　　　　　　　</encoder> 
-　　　　　　</appender> 
+   <appender name="FILE" class="ch.qos.logback.core.FileAppender"> 
+     <file>testFile.log</file> 
+     <append>true</append> 
+     <encoder> 
+       <pattern>%-4relative [%thread] %-5level %logger{35} - %msg%n</pattern> 
+     </encoder> 
+   </appender> 
 
-　　　　　　<root level="DEBUG"> 
-　　　　　　<appender-ref ref="FILE" /> 
-　　　　　　</root> 
+   <root level="DEBUG"> 
+     <appender-ref ref="FILE" /> 
+   </root> 
   </configuration>
 ```
 
@@ -81,10 +80,9 @@ encoder：对日志进行格式化。
 - append：如果是 true，日志被追加到文件结尾，如果是 false，清空现存文件，默认是true。
 - rollingPolicy:当发生滚动时，决定RollingFileAppender的行为，涉及文件移动和重命名。属性class定义具体的滚动策略类
 
->  class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy"： 最常用的滚动策略，它根据时间来制定滚动策略，既负责滚动也负责出发滚动。
+>  class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy"： 最常用的滚动策略，它根据时间来制定滚动策略，既负责滚动也负责触发滚动。
 
-
-```
+```xml
 <appender name="BILogger_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
    <file>${log.path}/dataBi.dat</file>
    <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
@@ -100,7 +98,7 @@ encoder：对日志进行格式化。
 
 > class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy"： 查看当前活动文件的大小，如果超过指定大小会告知RollingFileAppender 触发当前活动文件滚动
 
-```
+```xml
 <appender name="debug" class="ch.qos.logback.core.rolling.RollingFileAppender">
    <file>${log.path}/debug.log</file>
    <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
@@ -119,11 +117,11 @@ encoder：对日志进行格式化。
 
 - logger仅有一个name属性，一个可选的level和一个可选的addtivity属性
 - 可以包含零个或多个<appender-ref>元素，标识这个appender将会添加到这个logger。
-- name: 用来指定受此loger约束的某一个包或者具体的某一个类。
-- level: 用来设置打印级别，大小写无关：TRACE, DEBUG, INFO, WARN, ERROR, ALL和OFF，还有一个特殊值INHERITED或者同义词NULL，代表强制执行上级的级别。 如果未设置此属性，那么当前loger将会继承上级的级别。
-- addtivity: 是否向上级logger传递打印信息。默认是true。可以包含零个或多个appender-ref素，标识这个appender将会添加到这个logger。
+- name: 用来指定受此logger约束的某一个包或者具体的某一个类。
+- level: 用来设置打印级别，大小写无关：TRACE, DEBUG, INFO, WARN, ERROR, ALL和OFF，还有一个特殊值INHERITED或者同义词NULL，代表强制执行上级的级别。 如果未设置此属性，那么当前logger将会继承上级的级别。
+- addtivity: 是否向上级logger传递打印信息。默认是true。可以包含零个或多个appender-ref元素，标识这个appender将会添加到这个logger。
 
-```
+```xml
 <!--  logger name 和spring配置一致  -->
 <logger name="BILogger" level="INFO" additivity="true">
    <appender-ref ref="BILogger_FILE" />
@@ -134,8 +132,8 @@ encoder：对日志进行格式化。
 
 ### 子节点root
 
-它也是logger元素，但是它是根loger,是所有<loger>的上级。只有一个level属性，因为name已经被命名为"root",且已经是最上级了。
-```
+它也是logger元素，但是它是根logger,是所有`<logger>`的上级。只有一个level属性，因为name已经被命名为"root",且已经是最上级了。
+```xml
 <root level="INFO">
    <appender-ref ref="console"/>
    <appender-ref ref="debug"/>
@@ -147,8 +145,7 @@ encoder：对日志进行格式化。
 
 ###  logback.xml配置示例
 
-
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration debug="false">
 
@@ -202,10 +199,9 @@ encoder：对日志进行格式化。
 </configuration>
 ```
 
-
 ##  一个小案例加深对配置的理解
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration debug="false">
 
@@ -262,11 +258,9 @@ encoder：对日志进行格式化。
 
 ## 开发时，小六六自己的一些特殊的用法(实战）
 
-
 - 第一个，就是在日志的时候加上traceId,这样的好处就是可以把日志收集到日志平台的时候，可以很好的查到整个流程
 
-
-```
+```xml
 <!--输出到日志平台 -->
 <appender name="GELF" class="de.siegmar.logbackgelf.GelfUdpAppender">
     <graylogHost>${graylogHost}</graylogHost>
@@ -303,9 +297,9 @@ encoder：对日志进行格式化。
 ![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/df802d34b4d547b6aa5560184913641e~tplv-k3u1fbpfcp-watermark.image)
 
 
-- 第二个就是，我们一些格式话的日志，做到数仓里面
+- 第二个就是，我们一些格式化的日志，做到数仓里面
 
-```
+```xml
 <!-- BI操作日志-->
 <appender name="BILogger_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
    <file>${log.path}/dataBi.dat</file>
