@@ -123,6 +123,7 @@
 - [Spring Boot 之使用 validation 验证参数](https://juejin.im/post/6870691040009912327/)
 - [面试题：自己实现一个简单的IOC容器](https://juejin.im/post/6876228192818954254/)
 - [一文读懂logback的配置](https://juejin.cn/post/7000654570946822175)
+- [小白鼠带你啃Spring的核心流程（IOC）](https://juejin.cn/post/7027706496905379870/)
 - security
     - [Spring Security Oauth2 之 密码模式请求/oauth/token 解析](https://juejin.im/post/6875511668596539399)
     
