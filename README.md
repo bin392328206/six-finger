@@ -216,6 +216,7 @@
 - [小六六跟大家聊聊Typora的骚操作（自动上传图片）](https://juejin.cn/post/6952462355800260638)
 - [安利几款好用的idea插件](https://juejin.cn/post/6974600168263909384)
 - [讲真，这几个完整的开源Java项目能让你的能力提高一大截](https://juejin.cn/post/7018374142952996872)
+- [工作四年，分享15个对Java 程序员有用的库](https://juejin.cn/post/7028874739208683533)
 
 ## 力扣系列
 - [多线程之按顺序打印结果](https://mp.weixin.qq.com/s/X3yascHaq7GIybOdimmAXg)
