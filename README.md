@@ -204,6 +204,7 @@
 - [因为不想跑步，所以才去跑步](https://juejin.im/post/6855859447156342792)
 - [愿手下有代码，眼中有星辰](https://juejin.cn/post/6944344896257916936/)
 - [如何去参与一个开源项目](https://juejin.cn/post/6984619253555003428)
+- [假如六六是个黑客怎么破解Log4j呢](https://juejin.cn/post/7041036657490919437)
 ## 福利
 - [电子书(请勿传播)](/src/福利/电子书.md)
 - [Java小白的多啦A梦](https://juejin.im/post/5e7df09be51d4546fe26122d)
