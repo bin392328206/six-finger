@@ -85,6 +85,7 @@
 ## 小六六平时开发技巧
 - [小六六平时的开发小技巧一（公共属性填充设计）](https://juejin.cn/post/6976067876394385415)
 - [小六六平时的开发小技巧二（Nacos在服务配置中心的妙用）](https://juejin.cn/post/6979079679563005959)
+- [根治顽疾：Keep客户端 In-App Purchase 掉单踩坑指南](https://tech.gotokeep.com/post/2018/12/in-app-purchase/)
 ## 项目博客
 - [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（一）](https://juejin.im/post/6883005240740675591/)
 - [[适合初中级Java程序员修炼手册从0搭建整个Web项目]（二）](https://juejin.im/post/6884027512343494669)
