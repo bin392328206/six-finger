@@ -234,6 +234,7 @@
 ## 中台架构
 - [架构思维成长系列教程（一）- 中台架构的落地方法与实践](https://juejin.cn/post/6948965610130931719/)
 - [十张图带你了解负载均衡](https://juejin.cn/post/6955277654715007007)
+- [高可用业务系统你必须知道的点](https://juejin.cn/post/7102423164247867423)
 ## 大数据
 - [聊聊大数据技术栈学习](https://mp.weixin.qq.com/s?__biz=MjM5OTA0MjE5Mg==&mid=2247484693&idx=1&sn=ddca41620b7b464c3c23b6eb60b4e96d&chksm=a6c0c8ea91b741fcda22febbb31a98c85818b907e049a73225b5b82355d663a8a7c26eee12c8&token=336671299&lang=zh_CN#rd)
 - [交互式分析型数据库Hologres](https://juejin.cn/post/6903452075519442958/)
@@ -249,6 +250,8 @@
     
 ## 支付白皮书
 - [支付设计白皮书：支付系统的概念与中国互联网支付清算体系](https://juejin.cn/post/7051437155675013157)
+- [支付设计白皮书：支付系统的总架构](https://juejin.cn/post/7101522332883091463)
+- [支付设计白皮书：支付系统的对账系统设计](https://juejin.cn/post/7102036546819194911)
     
  # 费曼学习法
  
