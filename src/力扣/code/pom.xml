@@ -7,21 +7,6 @@
     <groupId>com.code</groupId>
     <artifactId>thread</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>8</source>
-                    <target>8</target>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
-    <modules>
-
-    </modules>
     <packaging>pom</packaging>
     <description>用于来写一些demo</description>
 
@@ -36,7 +21,13 @@
                 <artifactId>fastjson</artifactId>
                 <version>${fastjson.version}</version>
             </dependency>
-        </dependencies>
-    </dependencyManagement>
 
+            <dependency>
+                <groupId>cn.hutool</groupId>
+                <artifactId>hutool-bom</artifactId>
+                <version>5.8.15</version>
+            </dependency>
+        </dependencies>
+
+    </dependencyManagement>
 </project>
