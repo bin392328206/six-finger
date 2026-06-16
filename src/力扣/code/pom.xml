@@ -11,7 +11,7 @@
     <description>用于来写一些demo</description>
 
     <properties>
-        <fastjson.version>1.2.31</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencyManagement>
